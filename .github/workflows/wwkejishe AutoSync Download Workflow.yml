@@ -2,7 +2,7 @@ name: wwkejishe AutoSync Download Workflow
 on:
   workflow_dispatch:
   schedule:
-    - cron: "40 09,21 * * *" # 每天UTC时间09:40和21:40触发（北京时间次日凌晨5:40和17:40）
+    - cron: "40 17 * * *" # 每天UTC时间09:40和21:40触发（北京时间次日凌晨5:40和17:40）
 
 jobs:
   sync-iptv-sources:
