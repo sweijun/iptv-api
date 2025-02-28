@@ -1,0 +1,94 @@
+name: Update schedule
+on:
+  schedule:
+    - cron: '0 10,22 * * *'  # 修正 cron 时间顺序，每天 UTC 10:00 和 22:00 执行‌:ml-citation{ref="3,5" data="citationList"}
+      branches: [master, dev, gd]  # 正确嵌套在 schedule 事件下‌:ml-citation{ref="2" data="citationList"}
+  workflow_dispatch:
+    branches: [master, dev, gd]    # 正确包裹在 workflow_dispatch 事件下‌:ml-citation{ref="2" data="citationList"}
+
+jobs:
+  push:
+    runs-on: ${{ matrix.operating-system }}
+    timeout-minutes: 120
+    strategy:
+      matrix:
+        operating-system: [ubuntu-20.04]
+
+    steps:
+    - name: Set branch name
+      id: vars
+      run: |
+        echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
+
+    - uses: actions/checkout@v4  # 升级至最新稳定版‌:ml-citation{ref="4" data="citationList"}
+      with:
+        ref: ${{ env.BRANCH_NAME }}
+
+    - name: Set up Python 3.13
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.13'
+        cache: 'pip'  # 修正缓存类型为 pip‌:ml-citation{ref="6" data="citationList"}
+
+    - name: Check open_driver config
+      id: check_driver
+      run: |
+        echo "OPEN_DRIVER=$(python -c 'try:
+          from utils.config import config
+          print(config.open_driver)
+        except:
+          print(False)')" >> $GITHUB_ENV
+
+    - name: Set up Chrome
+      if: env.OPEN_DRIVER == 'true'  # 统一使用小写布尔值判断‌:ml-citation{ref="7" data="citationList"}
+      uses: browser-actions/setup-chrome@v1.4.0
+      with:
+        chrome-version: stable
+
+    - name: Download chrome driver
+      if: env.OPEN_DRIVER == 'true'
+      uses: nanasess/setup-chromedriver@v1.1.1  # 指定稳定版本‌:ml-citation{ref="4" data="citationList"}
+
+    - name: Install system dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y ffmpeg  # 合并 apt-get 命令‌:ml-citation{ref="1" data="citationList"}
+
+    - name: Install pipenv
+      run: pipx install pipenv  # 更安全的安装方式‌:ml-citation{ref="6" data="citationList"}
+
+    - name: Install dependencies
+      run: |
+        pipenv --python 3.13
+        pipenv install --deploy
+
+    - name: Install selenium
+      if: env.OPEN_DRIVER == 'true'
+      run: pipenv install selenium
+
+    - name: Run update
+      run: pipenv run dev
+
+    - name: Commit and push changes
+      env:
+        FINAL_FILE: output/result.txt  # 统一环境变量定义‌:ml-citation{ref="7" data="citationList"}
+        FINAL_M3U: output/result.m3u
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        # 简化文件检测逻辑
+        files_changed=0
+        for file in "$FINAL_FILE" "$FINAL_M3U" output/cache.pkl output/sort.log \
+          updates/fofa/fofa_hotel_region_result.pkl updates/fofa/fofa_multicast_region_result.pkl
+        do
+          if [[ -f "$file" ]]; then
+            git add -f "$file"
+            ((files_changed++))
+          fi
+        done
+
+        if (( files_changed > 0 )); then
+          git commit -m "Github Action Auto Updated"
+          git push
+        fi
