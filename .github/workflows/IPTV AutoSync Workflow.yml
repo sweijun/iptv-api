@@ -3,7 +3,7 @@ name: IPTV AutoSync Workflow
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 17 * * *" # 每天UTC时间18点（北京时间次日2点）
+    - cron: "30 17 * * *" # 每天UTC时间17点30分（北京时间次日1点30分）
 
 jobs:
   sync-iptv-sources:
