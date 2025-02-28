@@ -10,3 +10,5 @@ https://raw.githubusercontent.com/swj2323/iptv-api/refs/heads/master/Download/vb
 https://raw.githubusercontent.com/swj2323/iptv-api/refs/heads/master/Download/alienlu.txt
 https://raw.githubusercontent.com/swj2323/iptv-api/refs/heads/master/Download/l.txt
 https://raw.githubusercontent.com/swj2323/iptv-api/refs/heads/master/Download/kk.txt
+https://raw.githubusercontent.com/swj2323/iptv-api/refs/heads/master/Download/suxuang.m3u
+https://raw.githubusercontent.com/swj2323/iptv-api/refs/heads/master/Download/YueChan.m3u
