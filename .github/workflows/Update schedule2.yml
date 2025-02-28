@@ -1,4 +1,4 @@
-name: Update schedule
+name: Update schedule2
 on:
   schedule:
     - cron: '0 10,22 * * *'  # 修正 cron 时间顺序，每天 UTC 10:00 和 22:00 执行‌:ml-citation{ref="3,5" data="citationList"}
