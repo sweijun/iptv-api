@@ -22,7 +22,7 @@ jobs:
 
     - name: Download IPTV sources
       run: |
-        curl -o Download/wwkejishe.m3u8 https://raw.githubusercontent.com/swj2323/iptv-api/refs/heads/master/Download/wwkejishe.m3u8
+        curl -o Download/wwkejishe.m3u8 https://raw.githubusercontent.com/swj2323/iptv-api/master/Download/wwkejishe.m3u8
 
     - name: Process files
       run: |
