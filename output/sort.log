@@ -45,11 +45,10 @@ Name: CCTV17, URL: http://yc.myds.me:35455/itv/1000000005000265015.m3u8?cdn=yste
 Name: 东南卫视, URL: http://z.b.bkpcp.top/m.php?id=dnws$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东卫视, URL: http://z.b.bkpcp.top/m.php?id=gdws$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 浙江卫视, URL: http://z.b.bkpcp.top/m.php?id=zjws$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 271 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 湖南卫视, URL: http://z.b.bkpcp.top/m.php?id=hunws$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 北京卫视, URL: http://z.b.bkpcp.top/m.php?id=bjws$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 湖北卫视, URL: http://z.b.bkpcp.top/m.php?id=hubws$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 黑龙江卫视, URL: https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 136 ms, Speed: 82.53 M/s, Resolution: 1920x1080
+Name: 黑龙江卫视, URL: https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 12 ms, Speed: 50.46 M/s, Resolution: 1920x1080
 Name: 重庆卫视, URL: http://z.b.bkpcp.top/m.php?id=cqws$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 东方卫视, URL: http://z.b.bkpcp.top/m.php?id=dfws#rtsp://115.85.232.19/PLTV/88888910/224/3221225531/10000100000000060000000000107311_0.smil$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 东方卫视, URL: http://goo.bkpcp.top/mg/dfws$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -72,11 +71,9 @@ Name: 青海卫视, URL: http://z.b.bkpcp.top/m.php?id=qhws$订阅源, IPv_Type:
 Name: 山东卫视, URL: http://z.b.bkpcp.top/m.php?id=sdws$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 陕西卫视, URL: http://z.b.bkpcp.top/m.php?id=sxws$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 四川卫视, URL: http://z.b.bkpcp.top/m.php?id=scws$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 深圳卫视, URL: http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 32 ms, Speed: 0.67 M/s, Resolution: 1920x1080
 Name: 西藏卫视, URL: http://z.b.bkpcp.top/m.php?id=xzws$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 新疆卫视, URL: http://z.b.bkpcp.top/m.php?id=xjws$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 云南卫视, URL: http://z.b.bkpcp.top/m.php?id=ynws$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 大湾区卫视, URL: http://38.64.72.148/hls/modn/list/4011/chunklist0.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 32 ms, Speed: 0.67 M/s, Resolution: 1920x1080
 Name: 大湾区卫视, URL: http://z.b.bkpcp.top/m.php?id=dwqws$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 大湾区卫视, URL: http://jp1.jdiptv.cc/live/nfws.m3u8?kdstime=$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 延边卫视, URL: http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -85,9 +82,7 @@ Name: CCTV14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96
 Name: CCTV14, URL: http://z.b.bkpcp.top/m.php?id=cctv14$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV14, URL: http://goo.bkpcp.top/mg/cctv14$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV14, URL: http://yc.myds.me:35455/itv/1000000005000265013.m3u8?cdn=ystenlive$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 动漫秀场, URL: http://124.248.69.76:26781/douyu/9548279$订阅源, IPv_Type: ipv4, Date: None, Delay: 2614 ms, Speed: 0.19 M/s, Resolution: 1920x1080
 Name: 优漫卡通, URL: http://z.b.bkpcp.top/m.php?id=ymkt$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 浙江少儿, URL: http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244$订阅源, IPv_Type: ipv4, Date: None, Delay: 271 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 浙江少儿, URL: http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 浙江少儿, URL: https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 游戏风云, URL: http://z.b.bkpcp.top/m.php?id=yxfy$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -118,8 +113,9 @@ Name: CGTN阿语, URL: http://z.b.bkpcp.top/m.php?id=cgtna$订阅源, IPv_Type: 
 Name: CGTN阿语, URL: https://0472.org/hls/cgtna.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CGTN西语, URL: http://z.b.bkpcp.top/m.php?id=cgtne$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CGTN西语, URL: https://0472.org/hls/cgtnx.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 凤凰中文, URL: https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40$订阅源, IPv_Type: ipv4, Date: None, Delay: 153 ms, Speed: 3.48 M/s, Resolution: 1920x1080
 Name: 凤凰中文, URL: https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 凤凰中文, URL: http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 凤凰中文, URL: http://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 凤凰资讯, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 凤凰香港, URL: https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40$订阅源, IPv_Type: ipv4, Date: None, Delay: 153 ms, Speed: 3.48 M/s, Resolution: 1920x1080
 Name: 凤凰香港, URL: https://cdn6.163189.xyz/live/fhhk/stream.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
