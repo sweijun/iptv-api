@@ -516,6 +516,7 @@ Name: 延边卫视, URL: http://tvbox6.com/tv/bfgd.php?id=117$订阅源, IPv_Typ
 Name: 延边卫视, URL: http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 香港卫视, URL: https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 香港卫视, URL: http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 香港卫视, URL: http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 凤凰卫视, URL: http://cdn.132.us.kg/live/fhzw/stream.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 凤凰卫视, URL: http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -627,6 +628,7 @@ Name: 东方影视, URL: https://www.freetv.top/migu/617290047.m3u8?migutoken=86
 Name: 新白娘子传奇, URL: http://lu.wqwqwq.sbs/yy/1354490667$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 新白娘子传奇, URL: http://luobo.bkpcp.top/yy/1354490667$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 新白娘子传奇, URL: http://www.clmy.cc:35455/yy/1354490667$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: HBO家庭, URL: http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3$订阅源, IPv_Type: ipv4, Date: None, Delay: 49 ms, Speed: 1.37 M/s, Resolution: 1920x1080
 Name: TVB星河, URL: http://php.jdshipin.com/TVOD/iptv.php?id=xinghe$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: TVB星河, URL: http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: TVB星河, URL: http://v2hcdn.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w1006.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -688,7 +690,8 @@ Name: 凤凰资讯, URL: http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 Name: 凤凰资讯, URL: http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 凤凰资讯, URL: http://cdn3.132.us.kg/live/fhzx/stream.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 凤凰资讯, URL: http://udnhls.skilldns.com:80/fhzx-cn.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 凤凰香港, URL: https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40$订阅源, IPv_Type: ipv4, Date: None, Delay: 17 ms, Speed: 13.88 M/s, Resolution: 1920x1080
+Name: 凤凰香港, URL: http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed$订阅源, IPv_Type: ipv4, Date: None, Delay: 49 ms, Speed: 1.37 M/s, Resolution: 1920x1080
+Name: 凤凰香港, URL: https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40$订阅源, IPv_Type: ipv4, Date: None, Delay: 16 ms, Speed: 9.22 M/s, Resolution: 1920x1080
 Name: 凤凰香港, URL: http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 凤凰香港, URL: http://php.17186.eu.org/phtv/fhhk.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 凤凰香港, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
