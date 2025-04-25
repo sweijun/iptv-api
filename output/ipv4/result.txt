@@ -57,6 +57,7 @@ CCTV-17 农业农村,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 新疆卫视,http://192.168.6.1:1207/rtp/239.255.40.11:8208
 云南卫视,http://192.168.6.1:1207/rtp/239.255.40.6:8208
 兵团卫视,http://192.168.6.1:1207/rtp/239.255.40.29:8208
+安多卫视,http://106.46.57.50:8888/hls/29/index.m3u8
 安多卫视,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 
 🎥动画频道,#genre#
@@ -64,9 +65,11 @@ CCTV-14 少儿,http://192.168.6.1:1207/rtp/239.255.40.41:8208
 福建少儿,http://192.168.6.1:1207/rtp/239.255.40.156:8208
 卡酷少儿,http://192.168.6.1:1207/rtp/239.255.40.24:8208
 金鹰卡通,http://192.168.6.1:1207/rtp/239.255.40.25:8208
+金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287
 嘉佳卡通,http://192.168.6.1:1207/rtp/239.255.40.26:8208
 IPTV少儿动画,http://192.168.6.1:1207/rtp/239.255.40.66:8208
 IPTV野外,http://192.168.6.1:1207/rtp/239.255.40.60:8208
+动漫秀场,http://tvbox6.icu/tv/gdmzyd.php?id=83
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
@@ -77,13 +80,13 @@ CCTV-8 电视剧,http://192.168.6.1:1207/rtp/239.255.40.197:8208
 IPTV6+,http://192.168.6.1:1207/rtp/239.255.40.64:8208
 IPTV8+,http://192.168.6.1:1207/rtp/239.255.40.65:8208
 IPTV谍战剧场,http://192.168.6.1:1207/rtp/239.255.40.58:8208
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
-都市剧场,http://183.237.95.108:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
 
 💾福建频道,#genre#
 福建文体,http://192.168.6.1:1207/rtp/239.255.40.155:8208
 福建新闻,http://192.168.6.1:1207/rtp/239.255.40.151:8208
+福建新闻,https://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建经济,http://192.168.6.1:1207/rtp/239.255.40.154:8208
 福建综合,http://192.168.6.1:1207/rtp/239.255.40.202:8208
 福建综合,http://192.168.6.1:1207/rtp/239.255.40.148:8208
@@ -99,6 +102,7 @@ CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
 CETV1,http://192.168.6.1:1207/rtp/239.255.40.201:8208
 CETV2,http://192.168.6.1:1207/rtp/239.255.40.30:8208
 CETV4,http://192.168.6.1:1207/rtp/239.255.40.31:8208
+CETV4,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 睛彩青少,http://192.168.6.1:1207/rtp/239.255.40.207:8208
 睛彩竞技,http://192.168.6.1:1207/rtp/239.255.40.208:8208
 睛彩篮球,http://192.168.6.1:1207/rtp/239.255.40.209:8208
@@ -107,6 +111,7 @@ CETV4,http://192.168.6.1:1207/rtp/239.255.40.31:8208
 山东教育,http://192.168.6.1:1207/rtp/239.255.40.32:8208
 纪实科教,http://192.168.6.1:1207/rtp/239.255.40.205:8208
 金鹰纪实,http://192.168.6.1:1207/rtp/239.255.40.57:8208
+金鹰纪实,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/湖南.php?id=jyjs
 财富天下,http://192.168.6.1:1207/rtp/239.255.40.33:8208
 CCTV3+,http://192.168.6.1:1207/rtp/239.255.40.68:8208
 CCTV5+HD,http://192.168.6.1:1207/rtp/239.255.40.71:8208
@@ -121,4 +126,3 @@ CGTN俄语,http://192.168.6.1:1207/rtp/239.255.40.179:8208
 CGTN法语,http://192.168.6.1:1207/rtp/239.255.40.178:8208
 CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
-凤凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
