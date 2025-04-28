@@ -6,82 +6,145 @@ CCTV-1 综合,http://192.168.6.1:1207/rtp/239.255.40.167:8208
 CCTV-1 综合,http://192.168.6.1:1207/rtp/239.255.40.173:8208
 CCTV-1 综合,http://192.168.6.1:1207/rtp/239.255.40.174:8208
 CCTV-1 综合,http://192.168.6.1:1207/rtp/239.255.40.204:8208
+CCTV-1 综合,https://feiyang.wangdu.site/decrypt.php?url=Tm9DSElnaGtHSTVFblcwV3ZUcDAwbWdXRENjT1phVU82UnZXbmZZcmRQdDltaVJHZU9LQlJESEl1dlF0RHZnQWdyU1FkemNrRW1INDZSRWFaeFM1dVBaTlVCK2pDcW9rVDkrZlIzcTNoOXJoUDdhVjF6ZUhpMHVXS0RUY1RJVHRmbzh3dEJrZCs4NGtFVS9OTDc5Z1lRPT0%3D
 CCTV-2 财经,http://192.168.6.1:1207/rtp/239.255.40.36:8208
+CCTV-2 财经,https://feiyang.wangdu.site/decrypt.php?url=c3FzSVEwZzlPQm8zQXBWTnpydzNIZER1L0tEMHhlMTRaMEE2eFpJb1EzcU9zdmxyRWNRTTN3QWMrclVXRFpnNW9ONnBudXZvSUp2M21VaEFaTC8vc0E9PQ%3D%3D
 CCTV-3 综艺,http://192.168.6.1:1207/rtp/239.255.40.195:8208
+CCTV-3 综艺,https://feiyang.wangdu.site/decrypt.php?url=Tm9DSElnaGtHSTVFblcwV3ZUcDAwbUtHNzREUjJkYzMzV0h4N3YySEI3TmcxZlh1RGNLNFVGbGxCWTlqRURPOXU4bXorTHBPR2YxMEpCQ2VZcWhHSzk3TkZOOHR5NDBBd0VFMmZ2b25GTnIzNlpoaHg2ZzBRNmp4QUtBa0VXaTlkWWVqZDdEZ3VJbHROMXg0cDNLYitnPT0%3D
 CCTV-4 中文国际,http://192.168.6.1:1207/rtp/239.255.40.198:8208
+CCTV-4 中文国际,https://feiyang.wangdu.site/decrypt.php?url=c3FzSVEwZzlPQm8zQXBWTnpydzNIZER1L0tEMHhlMTRaMEE2eFpJb1EzcU9zdmxyRWNRTTN3QWMrclVXRFpnNVpQV0YwZlcyRzZXTVk5WGk3a0I0c2c9PQ%3D%3D
 CCTV-5 体育,http://192.168.6.1:1207/rtp/239.255.40.196:8208
+CCTV-5 体育,https://feiyang.wangdu.site/decrypt.php?url=c3FzSVEwZzlPQm8zQXBWTnpydzNIZER1L0tEMHhlMTRaMEE2eFpJb1EzcU9zdmxyRWNRTTN3QWMrclVXRFpnNUlaMW11dU5rSVRMdXZNbUdwdURwd1E9PQ%3D%3D
 CCTV-5+ 体育赛事,http://192.168.6.1:1207/rtp/239.255.40.34:8208
+CCTV-5+ 体育赛事,https://feiyang.wangdu.site/decrypt.php?url=WFVmRzRCdVZ2RW1YdTJPQmpRaDV5bk9DLzBwSGVCbkgxT2p2N0RaVE4vaG1TNXBxcmRidG15M3RBWktOanE5SnZXQ01aRlo1RGhSZlJmNDNFTHkrVGc9PQ%3D%3D
 CCTV-7 国防军事,http://192.168.6.1:1207/rtp/239.255.40.37:8208
+CCTV-7 国防军事,https://feiyang.wangdu.site/decrypt.php?url=c3FzSVEwZzlPQm8zQXBWTnpydzNIZER1L0tEMHhlMTRaMEE2eFpJb1EzcU9zdmxyRWNRTTN3QWMrclVXRFpnNUdIYkNlNzRxc0UxMDlhN3dKOTNuMUE9PQ%3D%3D
 CCTV-9 纪录,http://192.168.6.1:1207/rtp/239.255.40.38:8208
+CCTV-9 纪录,https://feiyang.wangdu.site/decrypt.php?url=c3FzSVEwZzlPQm8zQXBWTnpydzNIZER1L0tEMHhlMTRaMEE2eFpJb1EzcU9zdmxyRWNRTTN3QWMrclVXRFpnNS91S3p2ZHhCcWpVVmM5UGIrVDkzV0E9PQ%3D%3D
 CCTV-10 科教,http://192.168.6.1:1207/rtp/239.255.40.39:8208
+CCTV-10 科教,https://feiyang.wangdu.site/decrypt.php?url=c3FzSVEwZzlPQm8zQXBWTnpydzNIZER1L0tEMHhlMTRaMEE2eFpJb1EzcU9zdmxyRWNRTTN3QWMrclVXRFpnNXY4eU9JZFE4RDRjY2gvZEhNeTdEclE9PQ%3D%3D
 CCTV-11 戏曲,http://192.168.6.1:1207/rtp/239.255.40.2:8208
+CCTV-11 戏曲,https://feiyang.wangdu.site/decrypt.php?url=c3FzSVEwZzlPQm8zQXBWTnpydzNIZER1L0tEMHhlMTRaMEE2eFpJb1EzcU9zdmxyRWNRTTN3QWMrclVXRFpnNXpCeGpSMmlDbGUrMFV0a1JDaUc0UlE9PQ%3D%3D
 CCTV-12 社会与法,http://192.168.6.1:1207/rtp/239.255.40.40:8208
+CCTV-12 社会与法,https://feiyang.wangdu.site/decrypt.php?url=c3FzSVEwZzlPQm8zQXBWTnpydzNIZER1L0tEMHhlMTRaMEE2eFpJb1EzcU9zdmxyRWNRTTN3QWMrclVXRFpnNUFUQWwzVjl6b1MvdFV6ME1SV1FPdnc9PQ%3D%3D
 CCTV-13 新闻,http://192.168.6.1:1207/rtp/239.255.40.3:8208
+CCTV-13 新闻,https://feiyang.wangdu.site/decrypt.php?url=NDkyUFZzK3VaVTc3dmVmMkdJY3pTOG1WdlVGWHdoY3VRT1l4UFBYQ3NpWUlPSUJNMHdoOTc5Um1UTHBWejNaSFRGLzB0TXh4VldGa2FVWWUwTC9ZUTFNMTFEck5GZzVSSVZENTJBRVByNkU9
 CCTV-15 音乐,http://192.168.6.1:1207/rtp/239.255.40.4:8208
+CCTV-15 音乐,https://feiyang.wangdu.site/decrypt.php?url=c3FzSVEwZzlPQm8zQXBWTnpydzNIZER1L0tEMHhlMTRaMEE2eFpJb1EzcU9zdmxyRWNRTTN3QWMrclVXRFpnNWN2dXM2NXZoNzI1QVNnaVltUWVWRGc9PQ%3D%3D
 CCTV-16 奥林匹克,http://192.168.6.1:1207/rtp/239.255.40.194:8208
+CCTV-16 奥林匹克,https://feiyang.wangdu.site/decrypt.php?url=dWRDWHhsZzRPTTV2UmJuc21vSmlxQTJacWJHVjdVTW9LMHczWlAveHVyS3dxWmNqTG02bWlQU3V2S3lRMnA4dExmT0FaNUEyUHRYRWw0aFpTL3lOUWFGcGVsVS9BdE81MTRLYldyaXV3RVlCUUtuRWxtL2hkRmNwTjdVakN5T3I%3D
 CCTV-17 农业农村,http://192.168.6.1:1207/rtp/239.255.40.143:8208
+CCTV-17 农业农村,https://feiyang.wangdu.site/decrypt.php?url=c3FzSVEwZzlPQm8zQXBWTnpydzNIZER1L0tEMHhlMTRaMEE2eFpJb1EzcU9zdmxyRWNRTTN3QWMrclVXRFpnNUdseTE1cW9JOGxQUjZGT0p5Vmh6Q1E9PQ%3D%3D
 
 📡卫视频道,#genre#
 东南卫视,http://192.168.6.1:1207/rtp/239.255.40.149:8208
 东南卫视,http://192.168.6.1:1207/rtp/239.255.40.203:8208
+东南卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIRFhGYitxaGgzQVdxM1pUUE9JYlY2L3Uya2djbklEaFBQZFhZZUxjeVUySWVFM1FPblNSQWthczJoODJIdjZPYkhVaWFrQXVjVXcrNW9seUFkTlEvc3A%3D
 广东卫视,http://192.168.6.1:1207/rtp/239.255.40.52:8208
+广东卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQml6aUpBemtDOHJ1TWNnbWNaUkZiKzRoN1JNWnNTMWJreHl5UjhwNENOZlp6ZnpDMDRSckNwd3JheXdUT09LQStaclMzY2FwWm5oK3RsOHo3Y21xODA%3D
 浙江卫视,http://192.168.6.1:1207/rtp/239.255.40.49:8208
+浙江卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQnNCNm1LZkhSVm5DRXJXb3JEVnUzQUhYbm9tQnR6S2JpNFNDS3VIUmh5cFNuM0xkc3NMN21ENDBuM04vVjVkY0oxTDBoRU1oMXdPSkpncVUvRjZDbmw%3D
 湖南卫视,http://192.168.6.1:1207/rtp/239.255.40.43:8208
+湖南卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQUx2UG9XVlBDcWpMOEcwMW9rcWRMUm5BRktRTjlHaFlYbXV3ZVVNQmFVd1hPaUpneVNpcE9TM3BnUitJeHFZK081TVNudVprMThGZmxaQkk2dk1Zbnk%3D
 北京卫视,http://192.168.6.1:1207/rtp/239.255.40.46:8208
+北京卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQk5vTTdkb0xtOTdUZHVobUg3SURJTFljdEJmcjBab21OUURtMVhMQ0d1R2JhQjhNajl4dC9xTUZEeEhGMUFzSDJTMlpOdVg1ajdJZUJLK2NpUnBJQlk%3D
 湖北卫视,http://192.168.6.1:1207/rtp/239.255.40.47:8208
+湖北卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQkRqTFcvZ2Zaa1J2NzgxaTdYeVNmNUVRNFdUdXF6NjBpY0QvclpxNlAyRmZkUzRjNm9xRDJnZ1lOUSs5enkwWWprdDJsSHY4Nmhvc2ErWTdiZkJEbnM%3D
 黑龙江卫视,http://192.168.6.1:1207/rtp/239.255.40.44:8208
+黑龙江卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQ2xOdTgwZlNHTUtUMWFKSFRRa2FNeTRES1ZTNlRVQXVpdktMOThQOEJDRCtTMFNRUzNMR2xZcnV3V095SXRaR3YzNVZnYkRCc2ZIY3JCbXdWQmNneVU%3D
 安徽卫视,http://192.168.6.1:1207/rtp/239.255.40.53:8208
+安徽卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQXNCQmNaaHhNdjQrbGd1aEswaGF5ZHVLSjBOL1N2TkRLOHhndmd0NDhhQjl2bS8rSEd0YWllZHQxMjRNNDlKTDRaY3BQdEVSMW01Uk9iVURxNXhkemo%3D
 重庆卫视,http://192.168.6.1:1207/rtp/239.255.40.21:8208
+重庆卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQUJiVit1UHBqdDhHVkFSazN5aWxJS3k1RTF6ZDdjZ2YwVG9oUlJqdTVraWJ0clM2RnovdTBRdDNvWUlhWVRPQU5Bc085a1JSSlNsZWtFOG83UWhidno%3D
 东方卫视,http://192.168.6.1:1207/rtp/239.255.40.50:8208
+东方卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIRGdoT3ZTZnl4Ylh3ajJnbTBwYm5WbjNsTDVuL2w0K1p5TkFHVVQ3K3AyMmtmSC9JQTlLQ3ZORm5EdkRVa3RMbkFJY0Z2VFNsQ1U5ZERWMGJHbjhmb0E%3D
 甘肃卫视,http://192.168.6.1:1207/rtp/239.255.40.16:8208
+甘肃卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQVlRczlHeHYxLzV0Z1pFVWJNMUFlRk5qSStrOVpWRFErNkFvMUVEWEg5K28wZDZxV25ZNmpvc1BMVDR2WGtWU05GajlZRmYwQTJ0NGZlZW1jcUt2bDQ%3D
 广西卫视,http://192.168.6.1:1207/rtp/239.255.40.22:8208
+广西卫视,https://feiyang.wangdu.site/decrypt.php?url=eWlRZjY1Zlhwb3g3Q092dWJaQ2FpaHFvSm9VWXR5YURaNDZVL0RVUFNPRGI1NnhrSTNaaE9oNEJZNU01LzZKZVZEUXhaZi9Dazg1eGVIWjBnandRaEFtVVNuTDdaTTRGcGY4WUlrZTd3Wjg9
 贵州卫视,http://192.168.6.1:1207/rtp/239.255.40.200:8208
+贵州卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIRGxHQWhqbzJ6QlJPTUxOSGo3WTg2VHF6eXl0TFpiNTAvRzZRd2phYWZoK0JOR25QUUxjbzQzSEtRa0NjczBCUWZ3WE1RWTZVN2ttdTlJRyt3QkVZbUI%3D
 海南卫视,http://192.168.6.1:1207/rtp/239.255.40.23:8208
+海南卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQ0dXZnl2MjBJbUdmS2c5dFhLSWMrYjUveUMvQ1FEM09laUlXb1hjSUpRMnRHRXFrdUpjTXJTckNBV3lTV0g1aElEd0w3NW55K2d2aVFybGNjM3Iya1Y%3D
 河北卫视,http://192.168.6.1:1207/rtp/239.255.40.20:8208
+河北卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQXJxamxsWVpzajhnSjdIa2dUMlRPQnpaV2ZacjBmbmVmRUJtbmU2b2NIdy8wQVdhRXhOL1lxN1ZtS2RNWHcvYlBsQlRxazBEdVNUQmsvQkxkZmQxRWY%3D
 河南卫视,http://192.168.6.1:1207/rtp/239.255.40.9:8208
+河南卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIRGFwZFpmQUxTOXRpV2JuL0RLM1pqY2ZwaFpSK2c4TnIrTmI2UTdaOEs3QmZPc2VLVFkrOHo4cnhscG1salhxbnlFdzg5R3AzQjlLOVgyWlB2VXN2K3Y%3D
 吉林卫视,http://192.168.6.1:1207/rtp/239.255.40.17:8208
+吉林卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQ04yRk5tMnZxYUR3cUg1MlFCdjczWWxhYlRQM2FZa2ZXUExDcFBqamcrU1l5UDFQWG9QM2l5QkZ3SlpxUUhvb0daTTVZdkJoY3IwMVlRVXlxbDBaRWE%3D
 江苏卫视,http://192.168.6.1:1207/rtp/239.255.40.42:8208
+江苏卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIREdNcTdmZVZvUEpqZHhvWEV0WWJvd3J2RFBmRXoydFRGdXlQSEEwNWF2dEw2WHI5WXhTc1ovM3RJbmtIdE14NG9jZDVVclRwd2Nack16OFIyR29zRTE%3D
 江西卫视,http://192.168.6.1:1207/rtp/239.255.40.18:8208
+江西卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIRC9HRGp2NjRtVXZNQ1RCbCtPWWdpaXpSbUFyV2VoRWo2SmFhRGNHQjJveWw2TStEUkQrZXlEYnBiTXlpM3o1Q3RveG9uWTVvUzBhSDdiZjcyWkdMbzI%3D
 辽宁卫视,http://192.168.6.1:1207/rtp/239.255.40.54:8208
+辽宁卫视,https://feiyang.wangdu.site/decrypt.php?url=Tm9DSElnaGtHSTVFblcwV3ZUcDAwak82T3RkWm0zQnBkQlBXRW50NDdGTTJPN3JuelMrWmFBbExjaU45Rmk4QlExOGRjazZ2V1BUQVNPb2ZiZEZYaVRMbHJheUJFLzJyeGIrVDBFUEhFMG9QK0xXcC9QL2dsWGFVOHUxRGhIMjYxeUkzTVpDT2oySXAxbGtoakJzWCtBPT0%3D
 内蒙古卫视,http://192.168.6.1:1207/rtp/239.255.40.14:8208
+内蒙古卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIRDBZdkgwc1ljN1JtNWp6cEF2U3hlWGlEVVVaZXJIR1lIT2YvNHdINStyWUw5WSs2T2hSekVsaUtyOFZ0ckdYdGMrVTBOaGhzbndSRm5LK0FsOTN4WXA%3D
 宁夏卫视,http://192.168.6.1:1207/rtp/239.255.40.8:8208
+宁夏卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIRHpKWHlKV0xWamtxU0ZhQksybWVycUpJSG5ETzlOT0dGWDlYdnVsRE90ZVNzUHdRcC82YUxyWkdMbG84UWNwcUdmQUdiQ3BFSXVJREFxdElBYnE5OU0%3D
 青海卫视,http://192.168.6.1:1207/rtp/239.255.40.15:8208
+青海卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQzNuS2VWaEd0OWdkTW9nbUdTVVNkRzdtOUxrZk1EbXR2RHpjODU0cUdXckpJUEswWVIwN0VOODc2T2FuOGhNYmVmSW1HYm9ENnlWTUlSWk1SMzZYZUw%3D
 山东卫视,http://192.168.6.1:1207/rtp/239.255.40.51:8208
+山东卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQTBQUUl4QWhUaXA3QUl2ck52R1NnS2M5V1l2MEp6ejFmY00ra0dvYUxvWDlMZ2ZISVdVWS9HWU8veGNOMmVWRWs1TktqMlNGTitlWEZLYm1CV1pCUHk%3D
 山西卫视,http://192.168.6.1:1207/rtp/239.255.40.13:8208
+山西卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQzIrZnBjMFV5dVIyOUF1SjFBaEU3cDdQNmpKemYwYWZFVVlrdlpJWS90dDBkMjlhNW5qd3JIWEpKNXNpRDVXbXU4d0Nkc0xyNG1aOHB5QnFWbXhzZDg%3D
 陕西卫视,http://192.168.6.1:1207/rtp/239.255.40.10:8208
+陕西卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQVl1WDhPUnNkeFVKUnJySEU2Q1J6WlcwTi9KaGtyOGowTHlSRm80WnorbXpDM3Fycmk3TlR1bE5PazFNZUJ6bnc2Wkg4N1FxZjE5OHRML245NUlxb08%3D
 四川卫视,http://192.168.6.1:1207/rtp/239.255.40.19:8208
+四川卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQ2ZMRkVtMmpzaTlWWmR0SXBlenlkekJickY3M21EUVd4enVkNkZUTFF6d1JPS2dxMFFFNGRETXBUdTlBeUNpdHU1Zk50SDAxZzd1SWVULy9KOW5CYTc%3D
 深圳卫视,http://192.168.6.1:1207/rtp/239.255.40.199:8208
+深圳卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQXpqaitZcTQ4WDZVODVNMU9CZG0yc1FZdlNrOEFpRXN5SE5KTWk1QUhnbkoxMHdrU2pSNm41bjZ2cStya2Nza1Rnc200MnhyYnRwZTBsUk91dkVKSGQ%3D
 三沙卫视,http://192.168.6.1:1207/rtp/239.255.40.82:8208
+三沙卫视,https://feiyang.wangdu.site/decrypt.php?url=eWlRZjY1Zlhwb3g3Q092dWJaQ2FpaHFvSm9VWXR5YURaNDZVL0RVUFNPRGI1NnhrSTNaaE9oNEJZNU01LzZKZTB5Vy9Ya3FQQUR5SEpPYVhzNUF6TFlZb0grd2R0ZCt0MjZZM0pXenplVm89
 天津卫视,http://192.168.6.1:1207/rtp/239.255.40.48:8208
+天津卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQmhBTm93ZUNHdHNFdkhNVFFHalVzd1BGVGJxWUpFcmkxVkpEamxzZ2pFQnB5WjY5dmloTVNta0cxRlhRSkluZDdyay9Na2pXaU9OcHBIMS9QQ042akc%3D
 西藏卫视,http://192.168.6.1:1207/rtp/239.255.40.12:8208
+西藏卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQlV5OFYvdkNGTDhkcElvcXJTWnFtNmkrYVp6emhLNFhlWlVlNWMyUEZUdGRpazJhcWVRUUVYQkNWbXowdStIYklqUnBpeXYvYTB1OGZZME1ZUHJnbDc%3D
 新疆卫视,http://192.168.6.1:1207/rtp/239.255.40.11:8208
+新疆卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQWVqNDYwUkovUmwrcDVqeDMrdlJpR1l4QU9Udk1QSWh2bWxYaGZuWWg4UnVITm5mUW1qMjM2ZVpIZVlCVVNKRkUzZWdDalJPU2wwK0RoaTlEN2sxb3Q%3D
 云南卫视,http://192.168.6.1:1207/rtp/239.255.40.6:8208
+云南卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIRC9rUUQzY0taRWNiMUZNL0FELytCQmxTVXYzTU43dzh2LzhpekRRMmhwV1NnRDhhbkU2S3dOa0xPbzJzTWVTM240QzBLQ05iZnlpY1p2alpJcGswWkM%3D
 兵团卫视,http://192.168.6.1:1207/rtp/239.255.40.29:8208
+兵团卫视,https://feiyang.wangdu.site/decrypt.php?url=U0g4Y0FyK2ZTZjRwQVdjUXY3K3MzOHVXMjc2NVdoK0FCdmsrRlAwcElIQ3cwcmpPbENTTU5xTncyQjZBbzl0LzlBZ2hISmIwd1JVZWZpVnNZM1k2NGcxMEcvNFhWbXNCc2hQMGtuM0hLOXAxOW1IS1NERzNhU1hCdm5CZDZNNEU%3D
+大湾区卫视,https://feiyang.wangdu.site/decrypt.php?url=blhTaG9pcytCQkRoTU13dWQyQVJsTE96NWwzUlVBVXZjYTlRK2l2N3VZZkNDOThwZTJDVldEb0tLaTdjbERycg%3D%3D
 安多卫视,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
+延边卫视,https://feiyang.wangdu.site/decrypt.php?url=V0g1SElDa2Z2bkN4SjhnYm5UK245MklteFpiS1hwcElsSWJVS1dqWklHbkNRazVKeHJVSGVKbHkyeTJ0cER6VlBhWGl3clNNVXFiVHlvbUtwRkNjK0E9PQ%3D%3D
 
 🎥动画频道,#genre#
 CCTV-14 少儿,http://192.168.6.1:1207/rtp/239.255.40.41:8208
+CCTV-14 少儿,https://feiyang.wangdu.site/decrypt.php?url=c3FzSVEwZzlPQm8zQXBWTnpydzNIZER1L0tEMHhlMTRaMEE2eFpJb1EzcU9zdmxyRWNRTTN3QWMrclVXRFpnNW43OEMvdzYzMmNrZWxPQUpsUks5dUE9PQ%3D%3D
 福建少儿,http://192.168.6.1:1207/rtp/239.255.40.156:8208
 卡酷少儿,http://192.168.6.1:1207/rtp/239.255.40.24:8208
 金鹰卡通,http://192.168.6.1:1207/rtp/239.255.40.25:8208
-金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287
-金鹰卡通,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.107:1025
+金鹰卡通,http://wouu.net:9977/udp/239.93.0.108:5140
 嘉佳卡通,http://192.168.6.1:1207/rtp/239.255.40.26:8208
 IPTV少儿动画,http://192.168.6.1:1207/rtp/239.255.40.66:8208
 IPTV野外,http://192.168.6.1:1207/rtp/239.255.40.60:8208
-动漫秀场,http://tv.dahailisea.cn:4022/udp/239.10.0.101:5140
-动漫秀场,http://tvbox6.icu/tv/gdmzyd.php?id=83
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 🎬电影剧集,#genre#
 CCTV-6 电影,http://192.168.6.1:1207/rtp/239.255.40.175:8208
+CCTV-6 电影,https://feiyang.wangdu.site/decrypt.php?url=V0N3ZUdYb2JDSm9wTk8yNWdValhPcjBnUTRNZDlNZEVENFVhbnRGQVk0dERKSkVyb0w3b04vWlJJRE16UGNibFFIbmtZZG9QVVFCNHE5YjNGOVd2SitVamttZ054REtwK3Q1ejZGQWpCbms9
 CCTV-8 电视剧,http://192.168.6.1:1207/rtp/239.255.40.197:8208
+CCTV-8 电视剧,https://feiyang.wangdu.site/decrypt.php?url=c3FzSVEwZzlPQm8zQXBWTnpydzNIZER1L0tEMHhlMTRaMEE2eFpJb1EzcU9zdmxyRWNRTTN3QWMrclVXRFpnNUV6RW8zV25TT25CeFhQbDlDMXFhdFE9PQ%3D%3D
 福建电视剧,http://192.168.6.1:1207/rtp/239.255.40.152:8208
 IPTV6+,http://192.168.6.1:1207/rtp/239.255.40.64:8208
 IPTV8+,http://192.168.6.1:1207/rtp/239.255.40.65:8208
 IPTV谍战剧场,http://192.168.6.1:1207/rtp/239.255.40.58:8208
-CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
+黑莓电影,https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzcndydi9McUtHVEJwZFRNOFBSdGgrS2lJUHlzQWdjRDhTUDJKOEo3bXFONw%3D%3D
+CHC动作电影,https://feiyang.wangdu.site/decrypt.php?url=ajl5SW4vQVpVbjFLbVVUQitJUkV5SDQ4SytiSHV0ZUdZR3dDWG9rSFY3UmZiQWVCQ2h3RmVNSiszcXB6Vys0S0xDY3Bxb2w5MEUrTVJmRmpSTkFVTmw1TWJrcWtuTzgzZnZoTlIxcTM0NDFNV3ZwRGRWYnN1czhpWkd2bnJTZ2g%3D
+CHC家庭影院,https://feiyang.wangdu.site/decrypt.php?url=b29EejZSZzJFVmI3VkZkelQvZXowV0lDamJEQU14WTFqTXV4Y0F2Tlc0MnZKVkc2dG1keVdJWDM2QzVGcTdMLw%3D%3D
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+爱情喜剧,https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzdklpbnlsMTlPOWJjcDhkcTd2eVdoaHpUN2tKRW1hOUQxakRXdkFEQm5KVw%3D%3D
+超级电视剧,https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzckkyOGUyS2ZVTlM5TFBjVGhNYXpTSVlwbnNaRnJ3dEo2ZzBXajZRK1J2Uw%3D%3D
+超级电影,https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzckkyOGUyS2ZVTlM5TFBjVGhNYXpTS0ZVOWNuNWN5Y1FEcTlTSHpXa05OTA%3D%3D
+东北热剧,https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzdklpbnlsMTlPOWJjcDhkcTd2eVdoalEwd3JXSlREN3Uzcm9KU1VMQXlXeg%3D%3D
+动作电影,https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzdklpbnlsMTlPOWJjcDhkcTd2eVdoaVlyaU9rNXYxZEhYK0FLZjg5L0JOMA%3D%3D
+古装剧场,https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzckkyOGUyS2ZVTlM5TFBjVGhNYXpTSVltTkprMDZsUnFSczZKd3BiajZ0OQ%3D%3D
+家庭剧场,https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzckkyOGUyS2ZVTlM5TFBjVGhNYXpTTDZWMjdXZjQ3UE85MktseUh3Z2ZqMg%3D%3D
+精品大剧,https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzckkyOGUyS2ZVTlM5TFBjVGhNYXpTS3UyMmJObEdEVlN4dzFhdlcyZkJBZQ%3D%3D
+都市剧场,https://feiyang.wangdu.site/decrypt.php?url=OURtTUVTclhkUWRWQWFRT3MvelBoSmsrdjBJaFEvNlR5d2FCbFNySktlVGcvYncxY3l0QStTd3NHcGRnVEQyRzZibGdCMHdabWtiSUZDL2tCVC9HWUFqZEt6UjBCZUIzakd4YkRpcW5WOHcyNTZUTFlKZ1Z1bC9GRmVod09DWHY%3D
+都市剧场,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 
 💾福建频道,#genre#
 福建文体,http://192.168.6.1:1207/rtp/239.255.40.155:8208
@@ -93,6 +156,7 @@ CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
 福建旅游,http://192.168.6.1:1207/rtp/239.255.40.153:8208
 海峡卫视,http://192.168.6.1:1207/rtp/239.255.40.157:8208
 厦门卫视,http://192.168.6.1:1207/rtp/239.255.40.28:8208
+厦门卫视,https://feiyang.wangdu.site/decrypt.php?url=WGtWV0hCRkN5TjVzN05INVdjQ25kNmU1c1pwTllzcHdjam1MQkwzancvdVZqUWorSG5vcW5CODdRSHo0eEl1Q1VtRHYvaTFJRGhzM3ZsNW93bDY2a0c3bUF4NmFBWFVmcWtjQm5icDAva3J5L3MwY0dXR1h5ckNsS0lFRFdWdXo%3D
 厦门一套,http://192.168.6.1:1207/rtp/239.255.40.171:8208
 平潭卫视,http://192.168.6.1:1207/rtp/239.255.40.191:8208
 泉州一套,http://192.168.6.1:1207/rtp/239.255.40.172:8208
@@ -110,8 +174,6 @@ CETV4,http://192.168.6.1:1207/rtp/239.255.40.31:8208
 纪实科教,http://192.168.6.1:1207/rtp/239.255.40.205:8208
 金鹰纪实,http://192.168.6.1:1207/rtp/239.255.40.57:8208
 金鹰纪实,http://wouu.net:9977/udp/239.93.0.130:5140
-金鹰纪实,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/湖南.php?id=jyjs
-金鹰纪实,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.171:1025
 财富天下,http://192.168.6.1:1207/rtp/239.255.40.33:8208
 CCTV3+,http://192.168.6.1:1207/rtp/239.255.40.68:8208
 CCTV5+HD,http://192.168.6.1:1207/rtp/239.255.40.71:8208
@@ -122,7 +184,16 @@ IPTV相声小品,http://192.168.6.1:1207/rtp/239.255.40.59:8208
 中国交通,http://192.168.6.1:1207/rtp/239.255.40.211:8208
 IPTV魅力时尚,http://192.168.6.1:1207/rtp/239.255.40.67:8208
 CGTN英语,http://192.168.6.1:1207/rtp/239.255.40.5:8208
+CGTN英语,https://feiyang.wangdu.site/decrypt.php?url=cEpmYVIxcTl4OUk5ZDVLYkUydjZrQ0FEVXNjcWxacTRId0pIcXVxb2ljUT0%3D
 CGTN俄语,http://192.168.6.1:1207/rtp/239.255.40.179:8208
+CGTN俄语,https://feiyang.wangdu.site/decrypt.php?url=cEpmYVIxcTl4OUk5ZDVLYkUydjZrR2UzcGtlOC90cjN0SThPdmhrbDZOOD0%3D
 CGTN法语,http://192.168.6.1:1207/rtp/239.255.40.178:8208
+CGTN法语,https://feiyang.wangdu.site/decrypt.php?url=cEpmYVIxcTl4OUk5ZDVLYkUydjZrT25RWjNFZHROalU5UkUweisvOFd6dz0%3D
 CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
+CGTN纪录,https://feiyang.wangdu.site/decrypt.php?url=cEpmYVIxcTl4OUk5ZDVLYkUydjZrRlYrMkJhV1IyZ1g5Zm9KNmZCeVBaWT0%3D
+CGTN阿语,https://feiyang.wangdu.site/decrypt.php?url=cEpmYVIxcTl4OUk5ZDVLYkUydjZrSWo4WXU1QVJNbGYrZ0RnV2FFOWtUWT0%3D
+CGTN西语,https://feiyang.wangdu.site/decrypt.php?url=cEpmYVIxcTl4OUk5ZDVLYkUydjZrSDg1eHhlbGx6NVNFdW1tMWpuY3orRT0%3D
+凤凰中文,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczRU0zblZlbUZNd0RHY2Q4anFxdUd3Z1dabnFqMXhKcU5YMjF3UmxUdEptUg%3D%3D
+凤凰资讯,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczQlVnYU4ydDJ3Ylk4YkpraGxQdlhGZklBcGZxUXhNV0I4M3RoQ05XWmZlK3Z1SzBqdlpweVNLU3RYUmtVZ0VwU3c9PQ%3D%3D
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
+凤凰香港,https://feiyang.wangdu.site/decrypt.php?url=dzBKYVdyVzVkSCtFRy8zK01SRTB4L1V6cDhZYVRPVERYcFZMalhISUdBUC95WVV4WHBUa0J2VExRanU3Y2YvTg%3D%3D
