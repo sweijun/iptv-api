@@ -6,7 +6,6 @@ CCTV-1 综合,http://192.168.6.1:1207/rtp/239.255.40.167:8208
 CCTV-1 综合,http://192.168.6.1:1207/rtp/239.255.40.173:8208
 CCTV-1 综合,http://192.168.6.1:1207/rtp/239.255.40.174:8208
 CCTV-1 综合,http://192.168.6.1:1207/rtp/239.255.40.204:8208
-CCTV-1 综合,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018602/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
 CCTV-2 财经,http://192.168.6.1:1207/rtp/239.255.40.36:8208
 CCTV-3 综艺,http://192.168.6.1:1207/rtp/239.255.40.195:8208
 CCTV-4 中文国际,http://192.168.6.1:1207/rtp/239.255.40.198:8208
@@ -58,6 +57,7 @@ CCTV-17 农业农村,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 新疆卫视,http://192.168.6.1:1207/rtp/239.255.40.11:8208
 云南卫视,http://192.168.6.1:1207/rtp/239.255.40.6:8208
 兵团卫视,http://192.168.6.1:1207/rtp/239.255.40.29:8208
+大湾区卫视,http://tvbox6.icu/tv/migu.php?id=dwqws
 安多卫视,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 
 🎥动画频道,#genre#
@@ -69,8 +69,8 @@ CCTV-14 少儿,http://192.168.6.1:1207/rtp/239.255.40.41:8208
 嘉佳卡通,http://192.168.6.1:1207/rtp/239.255.40.26:8208
 IPTV少儿动画,http://192.168.6.1:1207/rtp/239.255.40.66:8208
 IPTV野外,http://192.168.6.1:1207/rtp/239.255.40.60:8208
-动漫秀场,http://61.133.118.228:5001/douyu/9548279
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 
 🎬电影剧集,#genre#
 CCTV-6 电影,http://192.168.6.1:1207/rtp/239.255.40.175:8208
@@ -79,20 +79,20 @@ CCTV-8 电视剧,http://192.168.6.1:1207/rtp/239.255.40.197:8208
 IPTV6+,http://192.168.6.1:1207/rtp/239.255.40.64:8208
 IPTV8+,http://192.168.6.1:1207/rtp/239.255.40.65:8208
 IPTV谍战剧场,http://192.168.6.1:1207/rtp/239.255.40.58:8208
-CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
-CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 💾福建频道,#genre#
 福建文体,http://192.168.6.1:1207/rtp/239.255.40.155:8208
 福建新闻,http://192.168.6.1:1207/rtp/239.255.40.151:8208
-福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建新闻,https://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 福建经济,http://192.168.6.1:1207/rtp/239.255.40.154:8208
-福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
+福建经济,http://aa3.kkwk111.top/fj.php?id=9
 福建综合,http://192.168.6.1:1207/rtp/239.255.40.202:8208
 福建综合,http://192.168.6.1:1207/rtp/239.255.40.148:8208
 福建公共,http://192.168.6.1:1207/rtp/239.255.40.150:8208
+福建公共,http://aa3.kkwk111.top/fj.php?id=6
 福建旅游,http://192.168.6.1:1207/rtp/239.255.40.153:8208
+福建旅游,http://aa3.kkwk111.top/fj.php?id=8
 海峡卫视,http://192.168.6.1:1207/rtp/239.255.40.157:8208
 厦门卫视,http://192.168.6.1:1207/rtp/239.255.40.28:8208
 厦门一套,http://192.168.6.1:1207/rtp/239.255.40.171:8208
@@ -125,4 +125,5 @@ CGTN英语,http://192.168.6.1:1207/rtp/239.255.40.5:8208
 CGTN俄语,http://192.168.6.1:1207/rtp/239.255.40.179:8208
 CGTN法语,http://192.168.6.1:1207/rtp/239.255.40.178:8208
 CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
+凤凰资讯,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
