@@ -111,8 +111,6 @@ http://192.168.6.1:1207/rtp/239.255.40.11:8208
 http://192.168.6.1:1207/rtp/239.255.40.6:8208
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="📡卫视频道",兵团卫视
 http://192.168.6.1:1207/rtp/239.255.40.29:8208
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="📡卫视频道",大湾区卫视
-http://tvbox6.icu/tv/migu.php?id=dwqws
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="📡卫视频道",安多卫视
 https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 #EXTINF:-1 tvg-name="CCTV14 少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14 少儿.png" group-title="🎥动画频道",CCTV-14 少儿
@@ -123,8 +121,6 @@ http://192.168.6.1:1207/rtp/239.255.40.156:8208
 http://192.168.6.1:1207/rtp/239.255.40.24:8208
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🎥动画频道",金鹰卡通
 http://192.168.6.1:1207/rtp/239.255.40.25:8208
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🎥动画频道",金鹰卡通
-http://tvbox6.icu/tv/mgtv.php?id=287
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉佳卡通.png" group-title="🎥动画频道",嘉佳卡通
 http://192.168.6.1:1207/rtp/239.255.40.26:8208
 #EXTINF:-1 tvg-name="IPTV少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV少儿动画.png" group-title="🎥动画频道",IPTV少儿动画
@@ -132,9 +128,7 @@ http://192.168.6.1:1207/rtp/239.255.40.66:8208
 #EXTINF:-1 tvg-name="IPTV野外" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV野外.png" group-title="🎥动画频道",IPTV野外
 http://192.168.6.1:1207/rtp/239.255.40.60:8208
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="🎥动画频道",浙江少儿
-http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="🎥动画频道",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV6 电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6 电影.png" group-title="🎬电影剧集",CCTV-6 电影
 http://192.168.6.1:1207/rtp/239.255.40.175:8208
 #EXTINF:-1 tvg-name="CCTV8 电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8 电视剧.png" group-title="🎬电影剧集",CCTV-8 电视剧
@@ -147,18 +141,12 @@ http://192.168.6.1:1207/rtp/239.255.40.64:8208
 http://192.168.6.1:1207/rtp/239.255.40.65:8208
 #EXTINF:-1 tvg-name="IPTV谍战剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV谍战剧场.png" group-title="🎬电影剧集",IPTV谍战剧场
 http://192.168.6.1:1207/rtp/239.255.40.58:8208
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬电影剧集",CHC动作电影
-http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="福建文体" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建文体.png" group-title="💾福建频道",福建文体
 http://192.168.6.1:1207/rtp/239.255.40.155:8208
 #EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建新闻.png" group-title="💾福建频道",福建新闻
 http://192.168.6.1:1207/rtp/239.255.40.151:8208
-#EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建新闻.png" group-title="💾福建频道",福建新闻
-https://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="福建经济" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建经济.png" group-title="💾福建频道",福建经济
 http://192.168.6.1:1207/rtp/239.255.40.154:8208
-#EXTINF:-1 tvg-name="福建经济" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建经济.png" group-title="💾福建频道",福建经济
-http://aa3.kkwk111.top/fj.php?id=9
 #EXTINF:-1 tvg-name="福建综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建综合.png" group-title="💾福建频道",福建综合
 http://192.168.6.1:1207/rtp/239.255.40.202:8208
 #EXTINF:-1 tvg-name="福建综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建综合.png" group-title="💾福建频道",福建综合
@@ -187,8 +175,6 @@ http://192.168.6.1:1207/rtp/239.255.40.201:8208
 http://192.168.6.1:1207/rtp/239.255.40.30:8208
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📼其他频道",CETV4
 http://192.168.6.1:1207/rtp/239.255.40.31:8208
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📼其他频道",CETV4
-https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="📼其他频道",睛彩青少
 http://192.168.6.1:1207/rtp/239.255.40.207:8208
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩竞技.png" group-title="📼其他频道",睛彩竞技
@@ -231,7 +217,3 @@ http://192.168.6.1:1207/rtp/239.255.40.179:8208
 http://192.168.6.1:1207/rtp/239.255.40.178:8208
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN纪录.png" group-title="📼其他频道",CGTN纪录
 http://192.168.6.1:1207/rtp/239.255.40.183:8208
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="📼其他频道",凤凰资讯
-http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="📼其他频道",凤凰香港
-https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
