@@ -67,7 +67,8 @@ CCTV-14 少儿,http://192.168.6.1:1207/rtp/239.255.40.41:8208
 嘉佳卡通,http://192.168.6.1:1207/rtp/239.255.40.26:8208
 IPTV少儿动画,http://192.168.6.1:1207/rtp/239.255.40.66:8208
 IPTV野外,http://192.168.6.1:1207/rtp/239.255.40.60:8208
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 
 🎬电影剧集,#genre#
 CCTV-6 电影,http://192.168.6.1:1207/rtp/239.255.40.175:8208
@@ -118,3 +119,4 @@ CGTN英语,http://192.168.6.1:1207/rtp/239.255.40.5:8208
 CGTN俄语,http://192.168.6.1:1207/rtp/239.255.40.179:8208
 CGTN法语,http://192.168.6.1:1207/rtp/239.255.40.178:8208
 CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
+凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
