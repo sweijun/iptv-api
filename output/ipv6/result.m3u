@@ -1485,6 +1485,8 @@ http://192.168.6.1:1207/rtp/239.255.40.150:8208
 http://192.168.6.1:1207/rtp/239.255.40.153:8208
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海峡卫视.png" group-title="💾福建频道",海峡卫视
 http://192.168.6.1:1207/rtp/239.255.40.157:8208
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海峡卫视.png" group-title="💾福建频道",海峡卫视
+http://goo.bkpcp.top/mg/hxws
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="💾福建频道",厦门卫视
 http://192.168.6.1:1207/rtp/239.255.40.28:8208
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="💾福建频道",厦门卫视
