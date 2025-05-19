@@ -705,6 +705,7 @@ IPTV谍战剧场,http://192.168.6.1:1207/rtp/239.255.40.58:8208
 淘电影,http://yc.myds.me:35455/bptv/10000100000000050000000003887498.m3u8
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-24.ctv
 CHC动作电影,http://eastscreen.tv/ooooo.php
+CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-17.ctv
 CHC家庭影院,http://eastscreen.tv/ooooo.php
 黑莓电影,http://[2409:8087:1:20:20::27]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8
