@@ -67,12 +67,6 @@ http://192.168.6.1:1207/rtp/239.255.40.52:8208
 http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://192.168.6.1:1207/rtp/239.255.40.49:8208
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-https://feiyang.wangdu.site/decrypt.php?url=R0pNS3ZscGVSc3U2MFVLQ3REaE04S3lqeUZyOEIwb0xJam5Cc1FwT1FoRGlFNjFvbE5MN1lvaGtGTGZiaTBXRGdZTUl2SjcwREM0WmtsalhJZ09JekE9PQ%3D%3D
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-https://feiyang.wangdu.site/decrypt.php?url=SG1VeENiZ292Zy91c285eGJMaUYyVWdWZjBJSmlXMVB5aTNoMVNrd1NyZFZJRmhEQ0U1V0M3YjV6a1ZxYWt1ejkyTUg0N01ZV21xVEVCdEZodElRN3c9PQ%3D%3D
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-https://feiyang.wangdu.site/decrypt.php?url=R0pNS3ZscGVSc3U2MFVLQ3REaE04S3lqeUZyOEIwb0xJam5Cc1FwT1FoRGlFNjFvbE5MN1lvaGtGTGZiaTBXRG5qcFpiNjZMNzIxaTZVWko2RFRNMnc9PQ%3D%3D
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://192.168.6.1:1207/rtp/239.255.40.43:8208
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
@@ -181,6 +175,8 @@ https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🎥动画频道",CCTV14
 http://192.168.6.1:1207/rtp/239.255.40.41:8208
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🎥动画频道",CCTV14
+http://221.226.4.10:9901/tsfile/live/0014_1.m3u8
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建少儿.png" group-title="🎥动画频道",福建少儿
 http://192.168.6.1:1207/rtp/239.255.40.156:8208
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="🎥动画频道",卡酷少儿
@@ -226,11 +222,11 @@ http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/超级电视剧.png" group-title="🎬电影剧集",超级电视剧
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzckkyOGUyS2ZVTlM5TFBjVGhNYXpTSVlwbnNaRnJ3dEo2ZzBXajZRK1J2Uw%3D%3D
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="🎬电影剧集",都市剧场
-https://feiyang.wangdu.site/decrypt.php?url=OURtTUVTclhkUWRWQWFRT3MvelBoSmsrdjBJaFEvNlR5d2FCbFNySktlVGcvYncxY3l0QStTd3NHcGRnVEQyRzZibGdCMHdabWtiSUZDL2tCVC9HWUFqZEt6UjBCZUIzakd4YkRpcW5WOHcyNTZUTFlKZ1Z1bC9GRmVod09DWHY%3D
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="🎬电影剧集",都市剧场
 http://180.213.174.225:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="🎬电影剧集",都市剧场
 http://183.237.95.108:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="🎬电影剧集",都市剧场
+https://feiyang.wangdu.site/decrypt.php?url=OURtTUVTclhkUWRWQWFRT3MvelBoSmsrdjBJaFEvNlR5d2FCbFNySktlVGcvYncxY3l0QStTd3NHcGRnVEQyRzZibGdCMHdabWtiSUZDL2tCVC9HWUFqZEt6UjBCZUIzakd4YkRpcW5WOHcyNTZUTFlKZ1Z1bC9GRmVod09DWHY%3D
 #EXTINF:-1 tvg-name="福建文体" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建文体.png" group-title="💾福建频道",福建文体
 http://192.168.6.1:1207/rtp/239.255.40.155:8208
 #EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建新闻.png" group-title="💾福建频道",福建新闻
@@ -322,9 +318,9 @@ https://feiyang.wangdu.site/decrypt.php?url=UUpJQmovS0UxVE9nMXhwRFlUV0lZbVcxL2RU
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="📼其他频道",凤凰资讯
 https://feiyang.wangdu.site/decrypt.php?url=VU00T2tWdFhueENpR2NqRDhEZzg4Ym9NZDJ3cHRSVTlROGJGNkI3RWM1cE5NWUZQdEtxKzN5RCt6V2JqUklQQQ%3D%3D
 #EXTINF:-1 tvg-name="斗鱼贝爷影厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼贝爷影厅.png" group-title="🇨🇳 斗鱼",斗鱼贝爷影厅
-http://b.zgjok.com:35455/douyu/252802
-#EXTINF:-1 tvg-name="斗鱼贝爷影厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼贝爷影厅.png" group-title="🇨🇳 斗鱼",斗鱼贝爷影厅
 http://www.douzhicloud.site:35455/douyu/252802
+#EXTINF:-1 tvg-name="斗鱼贝爷影厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼贝爷影厅.png" group-title="🇨🇳 斗鱼",斗鱼贝爷影厅
+http://b.zgjok.com:35455/douyu/252802
 #EXTINF:-1 tvg-name="斗鱼漫威电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼漫威电影.png" group-title="🇨🇳 斗鱼",斗鱼漫威电影
 http://www.douzhicloud.site:35455/douyu/6140589
 #EXTINF:-1 tvg-name="斗鱼漫威电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼漫威电影.png" group-title="🇨🇳 斗鱼",斗鱼漫威电影

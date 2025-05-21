@@ -209,9 +209,6 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 广东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226248/index.m3u8
 广东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
 浙江卫视,http://192.168.6.1:1207/rtp/239.255.40.49:8208
-浙江卫视,https://feiyang.wangdu.site/decrypt.php?url=R0pNS3ZscGVSc3U2MFVLQ3REaE04S3lqeUZyOEIwb0xJam5Cc1FwT1FoRGlFNjFvbE5MN1lvaGtGTGZiaTBXRGdZTUl2SjcwREM0WmtsalhJZ09JekE9PQ%3D%3D
-浙江卫视,https://feiyang.wangdu.site/decrypt.php?url=SG1VeENiZ292Zy91c285eGJMaUYyVWdWZjBJSmlXMVB5aTNoMVNrd1NyZFZJRmhEQ0U1V0M3YjV6a1ZxYWt1ejkyTUg0N01ZV21xVEVCdEZodElRN3c9PQ%3D%3D
-浙江卫视,https://feiyang.wangdu.site/decrypt.php?url=R0pNS3ZscGVSc3U2MFVLQ3REaE04S3lqeUZyOEIwb0xJam5Cc1FwT1FoRGlFNjFvbE5MN1lvaGtGTGZiaTBXRG5qcFpiNjZMNzIxaTZVWko2RFRNMnc9PQ%3D%3D
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
 浙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010070
@@ -223,6 +220,9 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 浙江卫视,http://ikuai.zlsip.top:4022/rtp/239.3.1.137:8036
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 浙江卫视,http://[2409:8087:1a01:df::4043]:80/TVOD/88888888/224/3221225959/main.m3u8
+浙江卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003873464.m3u8
+浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1746309623-0oh0wczjlthcs675z4v5o04eqlbj4e7p-0-f7567e57301970404dd8b1441f8b6662
+浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1746093625-2ln6mv1hv9ixvyubfdm32l0edhwgiqw7-0-d989b083951d17cd5c43bdd0538cbe3f
 湖南卫视,http://192.168.6.1:1207/rtp/239.255.40.43:8208
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
 湖南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010058
@@ -695,6 +695,7 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 
 🎥动画频道,#genre#
 CCTV14,http://192.168.6.1:1207/rtp/239.255.40.41:8208
+CCTV14,http://221.226.4.10:9901/tsfile/live/0014_1.m3u8
 CCTV14,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000511/index.m3u8
 CCTV14,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
 CCTV14,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
@@ -708,7 +709,6 @@ CCTV14,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225640/2
 CCTV14,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 CCTV14,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226445/1.m3u8
 CCTV14,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226645/1.m3u8
-CCTV14,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
 福建少儿,http://192.168.6.1:1207/rtp/239.255.40.156:8208
 卡酷少儿,http://192.168.6.1:1207/rtp/239.255.40.24:8208
 卡酷少儿,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
@@ -817,9 +817,9 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 家庭剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 惊悚悬疑,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 精品大剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-都市剧场,https://feiyang.wangdu.site/decrypt.php?url=OURtTUVTclhkUWRWQWFRT3MvelBoSmsrdjBJaFEvNlR5d2FCbFNySktlVGcvYncxY3l0QStTd3NHcGRnVEQyRzZibGdCMHdabWtiSUZDL2tCVC9HWUFqZEt6UjBCZUIzakd4YkRpcW5WOHcyNTZUTFlKZ1Z1bC9GRmVod09DWHY%3D
 都市剧场,http://180.213.174.225:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 都市剧场,http://183.237.95.108:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
+都市剧场,https://feiyang.wangdu.site/decrypt.php?url=OURtTUVTclhkUWRWQWFRT3MvelBoSmsrdjBJaFEvNlR5d2FCbFNySktlVGcvYncxY3l0QStTd3NHcGRnVEQyRzZibGdCMHdabWtiSUZDL2tCVC9HWUFqZEt6UjBCZUIzakd4YkRpcW5WOHcyNTZUTFlKZ1Z1bC9GRmVod09DWHY%3D
 欢笑剧场,http://goo.bkpcp.top/mg/hxjc
 
 💾福建频道,#genre#
@@ -930,8 +930,8 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 
 🇨🇳 斗鱼,#genre#
 橙記Orange,https://www.goodiptv.club/douyu/4549169
-斗鱼贝爷影厅,http://b.zgjok.com:35455/douyu/252802
 斗鱼贝爷影厅,http://www.douzhicloud.site:35455/douyu/252802
+斗鱼贝爷影厅,http://b.zgjok.com:35455/douyu/252802
 斗鱼漫威电影,http://www.douzhicloud.site:35455/douyu/6140589
 斗鱼漫威电影,http://b.zgjok.com:35455/douyu/6140589
 斗鱼MAX电影,http://b.zgjok.com:35455/douyu/4332
