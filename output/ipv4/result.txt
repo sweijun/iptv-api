@@ -116,9 +116,6 @@ IPTV谍战剧场,http://192.168.6.1:1207/rtp/239.255.40.58:8208
 重温经典,https://feiyang.wangdu.site/decrypt.php?url=VU00T2tWdFhueENpR2NqRDhEZzg4ZmRFRmVvNi94Znp0UlgveEVLOWliZ0xRdkxKU0RjSWtDTGdlVkR4OXZpcA%3D%3D
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 超级电视剧,https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzckkyOGUyS2ZVTlM5TFBjVGhNYXpTSVlwbnNaRnJ3dEo2ZzBXajZRK1J2Uw%3D%3D
-都市剧场,http://183.237.95.108:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
-都市剧场,https://feiyang.wangdu.site/decrypt.php?url=OURtTUVTclhkUWRWQWFRT3MvelBoSmsrdjBJaFEvNlR5d2FCbFNySktlVGcvYncxY3l0QStTd3NHcGRnVEQyRzZibGdCMHdabWtiSUZDL2tCVC9HWUFqZEt6UjBCZUIzakd4YkRpcW5WOHcyNTZUTFlKZ1Z1bC9GRmVod09DWHY%3D
-都市剧场,http://180.213.174.225:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 
 💾福建频道,#genre#
 福建文体,http://192.168.6.1:1207/rtp/239.255.40.155:8208
@@ -164,10 +161,10 @@ CGTN法语,http://192.168.6.1:1207/rtp/239.255.40.178:8208
 CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
 凤凰中文,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczRU0zblZlbUZNd0RHY2Q4anFxdUd3Z1dabnFqMXhKcU5YMjF3UmxUdEptUg%3D%3D
 凤凰中文,https://feiyang.wangdu.site/decrypt.php?url=RitVN0NtSFdsN0FlRjZNc3lWendqdG5ybStYSzJzS0lMdmtkd2VXZ1lSR3QvSlVTQ1RGeG9FdVhLa1JvbnZKWGN6cWhMMDBUZVFoRUFLcllPdkY3clE9PQ%3D%3D
-凤凰资讯,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczRU0zblZlbUZNd0RHY2Q4anFxdUd3Zy9VZlY2Z1BUalg2b21JYTBSSE8xbQ%3D%3D
-凤凰资讯,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczQlVnYU4ydDJ3Ylk4YkpraGxQdlhGZklBcGZxUXhNV0I4M3RoQ05XWmZlK3Z1SzBqdlpweVNLU3RYUmtVZ0VwU3c9PQ%3D%3D
-凤凰资讯,https://feiyang.wangdu.site/decrypt.php?url=VU00T2tWdFhueENpR2NqRDhEZzg4Ym9NZDJ3cHRSVTlROGJGNkI3RWM1cE5NWUZQdEtxKzN5RCt6V2JqUklQQQ%3D%3D
 凤凰资讯,https://feiyang.wangdu.site/decrypt.php?url=UUpJQmovS0UxVE9nMXhwRFlUV0lZbVcxL2RUS2F6QWIxMkU0ZU5lRlVPKy80VXRlUFg2ZHFlamkvbXZzbGlCNQ%3D%3D
+凤凰资讯,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczQlVnYU4ydDJ3Ylk4YkpraGxQdlhGZklBcGZxUXhNV0I4M3RoQ05XWmZlK3Z1SzBqdlpweVNLU3RYUmtVZ0VwU3c9PQ%3D%3D
+凤凰资讯,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczRU0zblZlbUZNd0RHY2Q4anFxdUd3Zy9VZlY2Z1BUalg2b21JYTBSSE8xbQ%3D%3D
+凤凰资讯,https://feiyang.wangdu.site/decrypt.php?url=VU00T2tWdFhueENpR2NqRDhEZzg4Ym9NZDJ3cHRSVTlROGJGNkI3RWM1cE5NWUZQdEtxKzN5RCt6V2JqUklQQQ%3D%3D
 
 🇨🇳 埋堆堆,#genre#
 
@@ -176,13 +173,14 @@ CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
 斗鱼漫威电影,http://www.douzhicloud.site:35455/douyu/6140589
 斗鱼科幻电影,http://www.douzhicloud.site:35455/douyu/9651304
 斗鱼喜剧电影,http://www.douzhicloud.site:35455/douyu/323876
+斗鱼魔幻影院,http://www.douzhicloud.site:35455/douyu/1274132
+斗鱼魔幻影院,http://b.zgjok.com:35455/douyu/1274132
 斗鱼漫威宇宙,http://www.douzhicloud.site:35455/douyu/11673725
 斗鱼魔幻大片,http://www.douzhicloud.site:35455/douyu/52787
 斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
 斗鱼香港电影,http://www.douzhicloud.site:35455/douyu/6079455
 斗鱼经典电影,http://www.douzhicloud.site:35455/douyu/96577
 斗鱼专辑影院,http://www.douzhicloud.site:35455/douyu/3811092
-斗鱼恐怖电影,http://www.douzhicloud.site:35455/douyu/263824
 斗鱼周末影院,http://www.douzhicloud.site:35455/douyu/315457
 
 虎牙,#genre#
