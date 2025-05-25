@@ -424,8 +424,6 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://192.168.6.1:1207/rtp/239.255.40.49:8208
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
@@ -451,6 +449,8 @@ http://[2409:8087:1a01:df::4043]:80/TVOD/88888888/224/3221225959/main.m3u8
 http://dsj.motem.top:8880/bptv/10000100000000050000000003873464.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1746309623-0oh0wczjlthcs675z4v5o04eqlbj4e7p-0-f7567e57301970404dd8b1441f8b6662
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1746093625-2ln6mv1hv9ixvyubfdm32l0edhwgiqw7-0-d989b083951d17cd5c43bdd0538cbe3f
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://192.168.6.1:1207/rtp/239.255.40.43:8208
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
@@ -814,9 +814,9 @@ http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://192.168.6.1:1207/rtp/239.255.40.9:8208
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
-http://1.94.31.214/php/hntv.php?id=hnws
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
+http://1.94.31.214/php/hntv.php?id=hnws
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://119.32.12.17:2901/udp/224.1.100.74:11111
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
@@ -1264,9 +1264,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw2730715388_788631706/ott
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://192.168.6.1:1207/rtp/239.255.40.12:8208
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
-http://www.lysvc.cc/daili/xztv.php?id=1
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://www.lysvc.cc/daili/xztv.php?id=0
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+http://www.lysvc.cc/daili/xztv.php?id=1
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://z.b.bkpcp.top/m.php?id=xzws
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
@@ -1441,6 +1441,8 @@ http://192.168.6.1:1207/rtp/239.255.40.60:8208
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🎥动画频道",黑莓动画
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🎥动画频道",动漫秀场
+http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哈哈炫动.png" group-title="🎥动画频道",哈哈炫动
 http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哈哈炫动.png" group-title="🎥动画频道",哈哈炫动
@@ -1529,8 +1531,6 @@ http://192.168.6.1:1207/rtp/239.255.40.65:8208
 http://192.168.6.1:1207/rtp/239.255.40.58:8208
 #EXTINF:-1 tvg-name="北京IPTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京IPTV4K.png" group-title="🎬电影剧集",北京IPTV4K
 https://feiyang.wangdu.site/decrypt.php?url=eWlRZjY1Zlhwb3g3Q092dWJaQ2FpaHFvSm9VWXR5YURaNDZVL0RVUFNPRGI1NnhrSTNaaE9oNEJZNU01LzZKZVhPSS9VdlVXZkI4SWVGSjZCanFuNEVzeHVWS3VxUjRTcW9EWHg3WFQzM1U9
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典.png" group-title="🎬电影剧集",重温经典
-https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczRU0zblZlbUZNd0RHY2Q4anFxdUd3aFpZT21vVGh0SzFCUmZjcjF3Wk1xeg%3D%3D
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典.png" group-title="🎬电影剧集",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淘电影.png" group-title="🎬电影剧集",淘电影
@@ -1627,6 +1627,8 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="🎬电影剧集",都市剧场
 http://183.237.95.108:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="🎬电影剧集",都市剧场
+https://feiyang.wangdu.site/decrypt.php?url=OURtTUVTclhkUWRWQWFRT3MvelBoSmsrdjBJaFEvNlR5d2FCbFNySktlVGcvYncxY3l0QStTd3NHcGRnVEQyRzZibGdCMHdabWtiSUZDL2tCVC9HWUFqZEt6UjBCZUIzakd4YkRpcW5WOHcyNTZUTFlKZ1Z1bC9GRmVod09DWHY%3D
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/欢笑剧场.png" group-title="🎬电影剧集",欢笑剧场
 http://goo.bkpcp.top/mg/hxjc
 #EXTINF:-1 tvg-name="福建文体" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建文体.png" group-title="💾福建频道",福建文体
@@ -1839,10 +1841,6 @@ http://www.douzhicloud.site:35455/douyu/6140589
 http://www.douzhicloud.site:35455/douyu/9651304
 #EXTINF:-1 tvg-name="斗鱼喜剧电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼喜剧电影.png" group-title="🇨🇳 斗鱼",斗鱼喜剧电影
 http://www.douzhicloud.site:35455/douyu/323876
-#EXTINF:-1 tvg-name="斗鱼魔幻影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼魔幻影院.png" group-title="🇨🇳 斗鱼",斗鱼魔幻影院
-http://b.zgjok.com:35455/douyu/1274132
-#EXTINF:-1 tvg-name="斗鱼魔幻影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼魔幻影院.png" group-title="🇨🇳 斗鱼",斗鱼魔幻影院
-http://www.douzhicloud.site:35455/douyu/1274132
 #EXTINF:-1 tvg-name="斗鱼漫威宇宙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼漫威宇宙.png" group-title="🇨🇳 斗鱼",斗鱼漫威宇宙
 http://www.douzhicloud.site:35455/douyu/11673725
 #EXTINF:-1 tvg-name="斗鱼魔幻大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼魔幻大片.png" group-title="🇨🇳 斗鱼",斗鱼魔幻大片
