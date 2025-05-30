@@ -465,7 +465,6 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 江西卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226344/index.m3u8
 江西卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226344/index.m3u8
 辽宁卫视,http://192.168.6.1:1207/rtp/239.255.40.54:8208
-辽宁卫视,http://119.32.12.17:2901/udp/224.1.100.92:11111
 辽宁卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226546
 辽宁卫视,http://z.b.bkpcp.top/m.php?id=lnws
 辽宁卫视,http://j.x.bkpcp.top/jx/LIAONHD
@@ -479,6 +478,7 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 辽宁卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226500/1.m3u8
 辽宁卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227141/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 辽宁卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227141/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+辽宁卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226254/index.m3u8
 内蒙古卫视,http://192.168.6.1:1207/rtp/239.255.40.14:8208
 内蒙古卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634
 内蒙古卫视,http://z.b.bkpcp.top/m.php?id=nmws
@@ -932,18 +932,9 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 
 🇨🇳 斗鱼,#genre#
 橙記Orange,https://www.goodiptv.club/douyu/4549169
-斗鱼贝爷影厅,http://www.douzhicloud.site:35455/douyu/252802
-斗鱼漫威电影,http://www.douzhicloud.site:35455/douyu/6140589
-斗鱼科幻电影,http://www.douzhicloud.site:35455/douyu/9651304
-斗鱼喜剧电影,http://www.douzhicloud.site:35455/douyu/323876
-斗鱼漫威宇宙,http://www.douzhicloud.site:35455/douyu/11673725
-斗鱼魔幻大片,http://www.douzhicloud.site:35455/douyu/52787
-斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
-斗鱼经典电影,http://www.douzhicloud.site:35455/douyu/96577
-斗鱼专辑影院,http://www.douzhicloud.site:35455/douyu/3811092
-斗鱼恐怖电影,http://b.zgjok.com:35455/douyu/263824
-斗鱼恐怖电影,http://www.douzhicloud.site:35455/douyu/263824
-斗鱼周末影院,http://www.douzhicloud.site:35455/douyu/315457
+斗鱼MAX电影,http://b.zgjok.com:35455/douyu/4332
+斗鱼魔幻影院,http://b.zgjok.com:35455/douyu/1274132
+斗鱼香港电影,http://b.zgjok.com:35455/douyu/6079455
 
 虎牙,#genre#
 电影_星爷,https://www.goodiptv.club/huya/11342412
@@ -978,14 +969,12 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 
 💥 虎牙,#genre#
 电影_发哥,https://www.goodiptv.club/huya/11342387
-电影_战争,http://www.douzhicloud.site:35455/huya/21059592
 电影_战争,https://www.goodiptv.club/huya/21059592
 电影_漫威,https://www.goodiptv.club/huya/11602034
 电影_宇宙,https://www.goodiptv.club/huya/11342428
 电影_怪兽,https://www.goodiptv.club/huya/21059577
 电影_盗墓,https://www.goodiptv.club/huya/21059552
 电影_谍战,https://www.goodiptv.club/huya/21059585
-电影_贺岁,http://www.douzhicloud.site:35455/huya/11601971
 电影_贺岁,https://www.goodiptv.club/huya/11601971
 电影_救援,https://www.goodiptv.club/huya/21059594
 电影_海盗,https://www.goodiptv.club/huya/21059595
@@ -1000,6 +989,3 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 电影_星爷,https://www.goodiptv.club/huya/11342412
 
 💥 Y//Y,#genre#
-寻秦记,http://www.douzhicloud.site:35455/huya/29465848
-神雕侠侣,http://www.douzhicloud.site:35455/huya/23865171
-倚天屠龙记,http://www.douzhicloud.site:35455/huya/23734246
