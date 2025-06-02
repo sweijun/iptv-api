@@ -29,7 +29,6 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 广东卫视,http://192.168.6.1:1207/rtp/239.255.40.52:8208
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 浙江卫视,http://192.168.6.1:1207/rtp/239.255.40.49:8208
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 湖南卫视,http://192.168.6.1:1207/rtp/239.255.40.43:8208
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
 北京卫视,http://192.168.6.1:1207/rtp/239.255.40.46:8208
@@ -46,12 +45,11 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 广西卫视,http://192.168.6.1:1207/rtp/239.255.40.22:8208
 贵州卫视,http://192.168.6.1:1207/rtp/239.255.40.200:8208
-贵州卫视,http://119.32.12.17:2901/udp/224.1.100.58:11111
 海南卫视,http://192.168.6.1:1207/rtp/239.255.40.23:8208
 河北卫视,http://192.168.6.1:1207/rtp/239.255.40.20:8208
 河南卫视,http://192.168.6.1:1207/rtp/239.255.40.9:8208
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://192.168.6.1:1207/rtp/239.255.40.17:8208
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://192.168.6.1:1207/rtp/239.255.40.42:8208
@@ -79,6 +77,7 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 大湾区卫视,http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv
 安多卫视,https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
+凤凰卫视,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 
 🎥动画频道,#genre#
 CCTV14,http://192.168.6.1:1207/rtp/239.255.40.41:8208
@@ -152,7 +151,6 @@ CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
 斗鱼科幻电影,http://b.zgjok.com:35455/douyu/9651304
 斗鱼喜剧电影,http://b.zgjok.com:35455/douyu/323876
 斗鱼蓝光影院,http://b.zgjok.com:35455/douyu/7882691
-斗鱼魔幻影院,http://b.zgjok.com:35455/douyu/1274132
 斗鱼漫威宇宙,http://b.zgjok.com:35455/douyu/11673725
 斗鱼魔幻大片,http://b.zgjok.com:35455/douyu/52787
 斗鱼华语喜剧,http://b.zgjok.com:35455/douyu/276200
