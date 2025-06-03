@@ -405,8 +405,8 @@ CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 河北卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 河北卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226406/index.m3u8
 河南卫视,http://192.168.6.1:1207/rtp/239.255.40.9:8208
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
 河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
@@ -714,7 +714,6 @@ CCTV14,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226645/1.m3u8
 CCTV14,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
 福建少儿,http://192.168.6.1:1207/rtp/239.255.40.156:8208
 卡酷少儿,http://192.168.6.1:1207/rtp/239.255.40.24:8208
-卡酷少儿,http://112.101.78.50:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 卡酷少儿,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226677/1.m3u8
 金鹰卡通,http://192.168.6.1:1207/rtp/239.255.40.25:8208
@@ -939,7 +938,6 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 斗鱼科幻电影,http://b.zgjok.com:35455/douyu/9651304
 斗鱼喜剧电影,http://b.zgjok.com:35455/douyu/323876
 斗鱼蓝光影院,http://b.zgjok.com:35455/douyu/7882691
-斗鱼魔幻影院,http://b.zgjok.com:35455/douyu/1274132
 斗鱼漫威宇宙,http://b.zgjok.com:35455/douyu/11673725
 斗鱼魔幻大片,http://b.zgjok.com:35455/douyu/52787
 斗鱼华语喜剧,http://b.zgjok.com:35455/douyu/276200
