@@ -132,6 +132,7 @@ CCTV12,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225637/2
 CCTV12,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
 CCTV12,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226723/1.m3u8
 CCTV12,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8
+CCTV12,http://lu.wqwqwq.sbs/itv/1000000005000265012.m3u8?cdn=ystenlive
 CCTV13,http://192.168.6.1:1207/rtp/239.255.40.3:8208
 CCTV13,http://119.32.12.17:2901/udp/224.1.100.69:11111
 CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
@@ -944,11 +945,11 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 橙記Orange,https://www.goodiptv.club/douyu/4549169
 斗鱼贝爷影厅,http://www.douzhicloud.site:35455/douyu/252802
 斗鱼漫威电影,http://www.douzhicloud.site:35455/douyu/6140589
-斗鱼MAX电影,http://www.douzhicloud.site:35455/douyu/4332
-斗鱼MAX电影,http://b.zgjok.com:35455/douyu/4332
 斗鱼科幻电影,http://www.douzhicloud.site:35455/douyu/9651304
 斗鱼喜剧电影,http://www.douzhicloud.site:35455/douyu/323876
 斗鱼蓝光影院,http://www.douzhicloud.site:35455/douyu/7882691
+斗鱼魔幻影院,http://www.douzhicloud.site:35455/douyu/1274132
+斗鱼魔幻影院,http://b.zgjok.com:35455/douyu/1274132
 斗鱼漫威宇宙,http://www.douzhicloud.site:35455/douyu/11673725
 斗鱼魔幻大片,http://www.douzhicloud.site:35455/douyu/52787
 斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
@@ -1012,6 +1013,7 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 电影_星爷,https://www.goodiptv.club/huya/11342412
 
 💥 Y//Y,#genre#
+鹿鼎记,http://43.138.0.72:35455/yy/28265277
 寻秦记,http://www.douzhicloud.site:35455/huya/29465848
 神雕侠侣,http://www.douzhicloud.site:35455/huya/23865171
 倚天屠龙记,http://www.douzhicloud.site:35455/huya/23734246
