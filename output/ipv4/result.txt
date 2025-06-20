@@ -47,6 +47,7 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 贵州卫视,http://192.168.6.1:1207/rtp/239.255.40.200:8208
 海南卫视,http://192.168.6.1:1207/rtp/239.255.40.23:8208
 河北卫视,http://192.168.6.1:1207/rtp/239.255.40.20:8208
+河北卫视,http://101.74.30.82:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://192.168.6.1:1207/rtp/239.255.40.9:8208
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
@@ -94,7 +95,6 @@ CCTV8,http://192.168.6.1:1207/rtp/239.255.40.197:8208
 IPTV6+,http://192.168.6.1:1207/rtp/239.255.40.64:8208
 IPTV8+,http://192.168.6.1:1207/rtp/239.255.40.65:8208
 IPTV谍战剧场,http://192.168.6.1:1207/rtp/239.255.40.58:8208
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 都市剧场,http://183.237.95.108:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
 
 💾福建频道,#genre#
@@ -148,6 +148,8 @@ CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
 斗鱼科幻电影,http://www.douzhicloud.site:35455/douyu/9651304
 斗鱼喜剧电影,http://www.douzhicloud.site:35455/douyu/323876
 斗鱼蓝光影院,http://www.douzhicloud.site:35455/douyu/7882691
+斗鱼魔幻影院,http://b.zgjok.com:35455/douyu/1274132
+斗鱼魔幻影院,http://www.douzhicloud.site:35455/douyu/1274132
 斗鱼漫威宇宙,http://www.douzhicloud.site:35455/douyu/11673725
 斗鱼魔幻大片,http://www.douzhicloud.site:35455/douyu/52787
 斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
