@@ -1760,8 +1760,6 @@ http://192.168.6.1:1207/rtp/239.255.40.5:8208
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN俄语.png" group-title="📼其他频道",CGTN俄语
 http://192.168.6.1:1207/rtp/239.255.40.179:8208
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN俄语.png" group-title="📼其他频道",CGTN俄语
-http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN俄语.png" group-title="📼其他频道",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN法语.png" group-title="📼其他频道",CGTN法语
 http://192.168.6.1:1207/rtp/239.255.40.178:8208
@@ -1865,10 +1863,6 @@ http://www.douzhicloud.site:35455/douyu/9651304
 http://www.douzhicloud.site:35455/douyu/323876
 #EXTINF:-1 tvg-name="斗鱼蓝光影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼蓝光影院.png" group-title="🇨🇳 斗鱼",斗鱼蓝光影院
 http://www.douzhicloud.site:35455/douyu/7882691
-#EXTINF:-1 tvg-name="斗鱼魔幻影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼魔幻影院.png" group-title="🇨🇳 斗鱼",斗鱼魔幻影院
-http://b.zgjok.com:35455/douyu/1274132
-#EXTINF:-1 tvg-name="斗鱼魔幻影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼魔幻影院.png" group-title="🇨🇳 斗鱼",斗鱼魔幻影院
-http://www.douzhicloud.site:35455/douyu/1274132
 #EXTINF:-1 tvg-name="斗鱼漫威宇宙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼漫威宇宙.png" group-title="🇨🇳 斗鱼",斗鱼漫威宇宙
 http://www.douzhicloud.site:35455/douyu/11673725
 #EXTINF:-1 tvg-name="斗鱼魔幻大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼魔幻大片.png" group-title="🇨🇳 斗鱼",斗鱼魔幻大片
