@@ -755,7 +755,6 @@ IPTV野外,http://192.168.6.1:1207/rtp/239.255.40.60:8208
 爱玩具,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000053/index.m3u8
 爱玩具,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000053/index.m3u8
 爱幼教,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000049/index.m3u8
-优漫卡通,http://8.134.110.147:5300/?id=ymkt
 优漫卡通,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 优漫卡通,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226932/1.m3u8
 优漫卡通,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
@@ -923,7 +922,6 @@ CGTN英语,http://192.168.6.1:1207/rtp/239.255.40.5:8208
 CGTN俄语,http://192.168.6.1:1207/rtp/239.255.40.179:8208
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,http://192.168.6.1:1207/rtp/239.255.40.178:8208
-CGTN法语,http://8.134.110.147:5300/?id=cgtnf
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
@@ -973,6 +971,19 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 
 🇨🇳 斗鱼,#genre#
 橙記Orange,https://www.goodiptv.club/douyu/4549169
+斗鱼贝爷影厅,http://www.douzhicloud.site:35455/douyu/252802
+斗鱼漫威电影,http://www.douzhicloud.site:35455/douyu/6140589
+斗鱼科幻电影,http://www.douzhicloud.site:35455/douyu/9651304
+斗鱼喜剧电影,http://www.douzhicloud.site:35455/douyu/323876
+斗鱼蓝光影院,http://www.douzhicloud.site:35455/douyu/7882691
+斗鱼漫威宇宙,http://www.douzhicloud.site:35455/douyu/11673725
+斗鱼魔幻大片,http://www.douzhicloud.site:35455/douyu/52787
+斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
+斗鱼香港电影,http://www.douzhicloud.site:35455/douyu/6079455
+斗鱼经典电影,http://www.douzhicloud.site:35455/douyu/96577
+斗鱼专辑影院,http://www.douzhicloud.site:35455/douyu/3811092
+斗鱼恐怖电影,http://www.douzhicloud.site:35455/douyu/263824
+斗鱼周末影院,http://www.douzhicloud.site:35455/douyu/315457
 
 虎牙,#genre#
 电影_星爷,https://www.goodiptv.club/huya/11342412
@@ -1027,5 +1038,7 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 电影_星爷,https://www.goodiptv.club/huya/11342412
 
 💥 Y//Y,#genre#
+寻秦记,http://www.douzhicloud.site:35455/huya/29465848
 神雕侠侣,http://iptv.jxpan.vip:18888/aio/huya/23865171
 钟馗传说,https://mursor.ottiptv.cc/yy/1382736839
+倚天屠龙记,http://www.douzhicloud.site:35455/huya/23734246
