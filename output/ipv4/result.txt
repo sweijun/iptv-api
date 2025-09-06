@@ -65,6 +65,7 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 新疆卫视,http://192.168.6.1:1207/rtp/239.255.40.11:8208
 云南卫视,http://192.168.6.1:1207/rtp/239.255.40.6:8208
 兵团卫视,http://192.168.6.1:1207/rtp/239.255.40.29:8208
+大湾区卫视,http://117.141.162.238:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
 凤凰卫视,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 
