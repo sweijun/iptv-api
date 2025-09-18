@@ -42,8 +42,8 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 海南卫视,http://192.168.6.1:1207/rtp/239.255.40.23:8208
 河北卫视,http://192.168.6.1:1207/rtp/239.255.40.20:8208
 河南卫视,http://192.168.6.1:1207/rtp/239.255.40.9:8208
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://192.168.6.1:1207/rtp/239.255.40.17:8208
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://192.168.6.1:1207/rtp/239.255.40.42:8208
@@ -86,7 +86,6 @@ IPTV6+,http://192.168.6.1:1207/rtp/239.255.40.64:8208
 IPTV8+,http://192.168.6.1:1207/rtp/239.255.40.65:8208
 IPTV谍战剧场,http://192.168.6.1:1207/rtp/239.255.40.58:8208
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
 
 💾福建频道,#genre#
 福建文体,http://192.168.6.1:1207/rtp/239.255.40.155:8208
@@ -154,5 +153,4 @@ CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
 💥 Y//Y,#genre#
 寻秦记,http://www.douzhicloud.site:35455/huya/29465848
 神雕侠侣,http://www.douzhicloud.site:35455/huya/23865171
-神雕侠侣,http://iptv.jxpan.vip:18888/aio/huya/23865171
 倚天屠龙记,http://www.douzhicloud.site:35455/huya/23734246
