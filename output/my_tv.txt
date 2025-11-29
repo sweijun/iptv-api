@@ -221,7 +221,6 @@ CCTV17,https://cc06.tv12.xyz/17.m3u8
 东南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 东南卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 广东卫视,http://192.168.6.1:1207/rtp/239.255.40.52:8208
-广东卫视,http://112.123.243.37:50085/tsfile/live/0135_1.m3u8
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
 广东卫视,http://j.x.bkpcp.top/jx/GUANGDHD
@@ -235,6 +234,7 @@ CCTV17,https://cc06.tv12.xyz/17.m3u8
 广东卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
 广东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226248/index.m3u8
 广东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
+广东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227201/index.m3u8
 浙江卫视,http://192.168.6.1:1207/rtp/239.255.40.49:8208
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
@@ -1033,7 +1033,6 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
 斗鱼香港电影,http://www.douzhicloud.site:35455/douyu/6079455
 斗鱼经典电影,http://www.douzhicloud.site:35455/douyu/96577
-斗鱼国产电影,http://www.douzhicloud.site:35455/douyu/122402
 斗鱼专辑影院,http://www.douzhicloud.site:35455/douyu/3811092
 斗鱼恐怖电影,http://www.douzhicloud.site:35455/douyu/263824
 斗鱼周末影院,http://www.douzhicloud.site:35455/douyu/315457
@@ -1094,7 +1093,6 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 寻秦记,http://www.douzhicloud.site:35455/huya/29465848
 寻秦记,http://live.ottiptv.cc/huya/29465848
 封神榜,http://live.ottiptv.cc/huya/29465849
-笑傲江湖,http://www.douzhicloud.site:35455/huya/23865142
 神雕侠侣,http://www.douzhicloud.site:35455/huya/23865171
 钟馗传说,https://mursor.ottiptv.cc/yy/1382736839
 钟馗传说,https://yylunbo.ottiptv.cc/yy/1382736839

@@ -25,7 +25,6 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 东南卫视,http://192.168.6.1:1207/rtp/239.255.40.149:8208
 东南卫视,http://192.168.6.1:1207/rtp/239.255.40.203:8208
 广东卫视,http://192.168.6.1:1207/rtp/239.255.40.52:8208
-广东卫视,http://112.123.243.37:50085/tsfile/live/0135_1.m3u8
 浙江卫视,http://192.168.6.1:1207/rtp/239.255.40.49:8208
 湖南卫视,http://192.168.6.1:1207/rtp/239.255.40.43:8208
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
@@ -145,7 +144,6 @@ CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
 斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
 斗鱼香港电影,http://www.douzhicloud.site:35455/douyu/6079455
 斗鱼经典电影,http://www.douzhicloud.site:35455/douyu/96577
-斗鱼国产电影,http://www.douzhicloud.site:35455/douyu/122402
 斗鱼专辑影院,http://www.douzhicloud.site:35455/douyu/3811092
 斗鱼恐怖电影,http://www.douzhicloud.site:35455/douyu/263824
 斗鱼周末影院,http://www.douzhicloud.site:35455/douyu/315457
@@ -156,6 +154,5 @@ CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
 
 💥 Y//Y,#genre#
 寻秦记,http://www.douzhicloud.site:35455/huya/29465848
-笑傲江湖,http://www.douzhicloud.site:35455/huya/23865142
 神雕侠侣,http://www.douzhicloud.site:35455/huya/23865171
 倚天屠龙记,http://www.douzhicloud.site:35455/huya/23734246
