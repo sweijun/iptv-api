@@ -1024,7 +1024,6 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 橙記Orange,https://www.goodiptv.club/douyu/4549169
 斗鱼贝爷影厅,http://www.douzhicloud.site:35455/douyu/252802
 斗鱼漫威电影,http://www.douzhicloud.site:35455/douyu/6140589
-斗鱼MAX电影,http://www.douzhicloud.site:35455/douyu/4332
 斗鱼科幻电影,http://www.douzhicloud.site:35455/douyu/9651304
 斗鱼喜剧电影,http://www.douzhicloud.site:35455/douyu/323876
 斗鱼蓝光影院,http://www.douzhicloud.site:35455/douyu/7882691
@@ -1033,7 +1032,6 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
 斗鱼香港电影,http://www.douzhicloud.site:35455/douyu/6079455
 斗鱼经典电影,http://www.douzhicloud.site:35455/douyu/96577
-斗鱼国产电影,http://www.douzhicloud.site:35455/douyu/122402
 斗鱼专辑影院,http://www.douzhicloud.site:35455/douyu/3811092
 斗鱼恐怖电影,http://www.douzhicloud.site:35455/douyu/263824
 斗鱼周末影院,http://www.douzhicloud.site:35455/douyu/315457
@@ -1093,7 +1091,6 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 💥 Y//Y,#genre#
 寻秦记,http://live.ottiptv.cc/huya/29465848
 封神榜,http://live.ottiptv.cc/huya/29465849
-笑傲江湖,http://www.douzhicloud.site:35455/huya/23865142
 神雕侠侣,http://www.douzhicloud.site:35455/huya/23865171
 钟馗传说,https://mursor.ottiptv.cc/yy/1382736839
 钟馗传说,https://yylunbo.ottiptv.cc/yy/1382736839
