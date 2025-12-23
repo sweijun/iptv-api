@@ -27,7 +27,6 @@ CCTV17,http://192.168.6.1:1207/rtp/239.255.40.143:8208
 广东卫视,http://192.168.6.1:1207/rtp/239.255.40.52:8208
 浙江卫视,http://192.168.6.1:1207/rtp/239.255.40.49:8208
 湖南卫视,http://192.168.6.1:1207/rtp/239.255.40.43:8208
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://192.168.6.1:1207/rtp/239.255.40.46:8208
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.168.6.1:1207/rtp/239.255.40.47:8208
@@ -69,12 +68,9 @@ CCTV14,http://192.168.6.1:1207/rtp/239.255.40.41:8208
 福建少儿,http://192.168.6.1:1207/rtp/239.255.40.156:8208
 卡酷少儿,http://192.168.6.1:1207/rtp/239.255.40.24:8208
 金鹰卡通,http://192.168.6.1:1207/rtp/239.255.40.25:8208
-金鹰卡通,http://221.13.235.75:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://192.168.6.1:1207/rtp/239.255.40.26:8208
 IPTV少儿动画,http://192.168.6.1:1207/rtp/239.255.40.66:8208
 IPTV野外,http://192.168.6.1:1207/rtp/239.255.40.60:8208
-动漫秀场,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=dmxchd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
-动漫秀场,http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎬电影剧集,#genre#
 CCTV6,http://192.168.6.1:1207/rtp/239.255.40.175:8208
@@ -130,20 +126,6 @@ CGTN纪录,http://192.168.6.1:1207/rtp/239.255.40.183:8208
 🇨🇳 埋堆堆,#genre#
 
 🇨🇳 斗鱼,#genre#
-斗鱼贝爷影厅,http://www.douzhicloud.site:35455/douyu/252802
-斗鱼漫威电影,http://www.douzhicloud.site:35455/douyu/6140589
-斗鱼科幻电影,http://www.douzhicloud.site:35455/douyu/9651304
-斗鱼喜剧电影,http://www.douzhicloud.site:35455/douyu/323876
-斗鱼蓝光影院,http://www.douzhicloud.site:35455/douyu/7882691
-斗鱼漫威宇宙,http://www.douzhicloud.site:35455/douyu/11673725
-斗鱼魔幻大片,http://www.douzhicloud.site:35455/douyu/52787
-斗鱼华语喜剧,http://www.douzhicloud.site:35455/douyu/276200
-斗鱼香港电影,http://www.douzhicloud.site:35455/douyu/6079455
-斗鱼经典电影,http://www.douzhicloud.site:35455/douyu/96577
-斗鱼国产电影,http://www.douzhicloud.site:35455/douyu/122402
-斗鱼专辑影院,http://www.douzhicloud.site:35455/douyu/3811092
-斗鱼恐怖电影,http://www.douzhicloud.site:35455/douyu/263824
-斗鱼周末影院,http://www.douzhicloud.site:35455/douyu/315457
 
 虎牙,#genre#
 
